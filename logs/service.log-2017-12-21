@@ -1,0 +1,358 @@
+[2017-12-21T00:02:47.694] [INFO] service - app listening 14444
+[2017-12-21T00:02:47.713] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:02:50.854] [INFO] service - app listening 14444
+[2017-12-21T00:02:50.882] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:02:58.113] [INFO] service - app listening 14444
+[2017-12-21T00:02:58.134] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:03:02.566] [INFO] service - 
+[2017-12-21T00:05:10.677] [INFO] service - app listening 14444
+[2017-12-21T00:05:10.700] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:05:15.686] [INFO] service - 
+[2017-12-21T00:05:25.265] [INFO] service - app listening 14444
+[2017-12-21T00:05:25.283] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:06:47.180] [INFO] service - app listening 14444
+[2017-12-21T00:06:47.217] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:06:49.927] [INFO] service - 
+[2017-12-21T00:07:18.356] [INFO] service - app listening 14444
+[2017-12-21T00:07:18.387] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:07:28.918] [INFO] service - app listening 14444
+[2017-12-21T00:07:28.963] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:07:35.184] [INFO] service - 
+[2017-12-21T00:08:35.257] [INFO] service - app listening 14444
+[2017-12-21T00:08:35.277] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:08:39.487] [INFO] service - 
+[2017-12-21T00:08:53.673] [INFO] service - app listening 14444
+[2017-12-21T00:08:53.711] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:09:01.055] [INFO] service - app listening 14444
+[2017-12-21T00:09:01.081] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:09:34.464] [INFO] service - app listening 14444
+[2017-12-21T00:09:34.496] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:09:40.802] [INFO] service - 
+[2017-12-21T00:09:51.923] [INFO] service - 
+[2017-12-21T00:10:46.882] [INFO] service - app listening 14444
+[2017-12-21T00:10:46.906] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:10:50.076] [INFO] service - app listening 14444
+[2017-12-21T00:10:50.104] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:11:00.711] [INFO] service - app listening 14444
+[2017-12-21T00:11:00.736] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:11:34.289] [INFO] service - app listening 14444
+[2017-12-21T00:11:34.319] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:11:39.298] [INFO] service - 
+[2017-12-21T00:11:57.340] [INFO] service - app listening 14444
+[2017-12-21T00:11:57.365] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:12:00.236] [INFO] service - 
+[2017-12-21T00:12:00.333] [ERROR] service - E11000 duplicate key error collection: baas1.users index: user_name_1 dup key: { : "吴学宇" }
+[2017-12-21T00:23:10.252] [INFO] service - app listening 14444
+[2017-12-21T00:23:10.279] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:23:20.339] [INFO] service - 
+[2017-12-21T00:24:56.713] [INFO] service - app listening 14444
+[2017-12-21T00:24:56.730] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:25:14.140] [INFO] service - app listening 14444
+[2017-12-21T00:25:14.155] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:25:15.604] [INFO] service - app listening 14444
+[2017-12-21T00:25:15.649] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:25:21.586] [INFO] service - app listening 14444
+[2017-12-21T00:25:21.614] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:25:29.726] [INFO] service - 
+[2017-12-21T00:25:53.399] [INFO] service - app listening 14444
+[2017-12-21T00:25:53.424] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:25:57.861] [INFO] service - 
+[2017-12-21T00:25:59.279] [INFO] service - 
+[2017-12-21T00:26:00.010] [INFO] service - 
+[2017-12-21T00:26:00.512] [INFO] service - 
+[2017-12-21T00:26:00.929] [INFO] service - 
+[2017-12-21T00:26:01.341] [INFO] service - 
+[2017-12-21T00:26:01.839] [INFO] service - 
+[2017-12-21T00:26:06.229] [INFO] service - 
+[2017-12-21T00:26:43.401] [INFO] service - app listening 14444
+[2017-12-21T00:26:43.426] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:26:49.720] [INFO] service - 
+[2017-12-21T00:27:42.702] [INFO] service - app listening 14444
+[2017-12-21T00:27:42.844] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:27:47.781] [INFO] service - 
+[2017-12-21T00:28:21.514] [INFO] service - app listening 14444
+[2017-12-21T00:28:21.536] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:28:27.067] [INFO] service - 
+[2017-12-21T00:29:13.234] [INFO] service - 
+[2017-12-21T00:29:20.528] [INFO] service - 
+[2017-12-21T00:29:24.198] [INFO] service - 
+[2017-12-21T00:30:36.794] [INFO] service - app listening 14444
+[2017-12-21T00:30:36.817] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:30:44.365] [INFO] service - 
+[2017-12-21T00:30:46.361] [INFO] service - 
+[2017-12-21T00:30:51.558] [INFO] service - 
+[2017-12-21T00:30:55.890] [INFO] service - 
+[2017-12-21T00:31:29.930] [INFO] service - app listening 14444
+[2017-12-21T00:31:29.944] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:33:32.365] [INFO] service - app listening 14444
+[2017-12-21T00:33:32.384] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:33:45.777] [INFO] service - app listening 14444
+[2017-12-21T00:33:45.797] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:33:51.001] [INFO] service - app listening 14444
+[2017-12-21T00:33:51.025] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:33:55.518] [INFO] service - 
+[2017-12-21T00:33:55.533] [INFO] service - 30ms POST /user/new.json, user: , ip: ::ffff:127.0.0.1, body:{"user_name":"吴学宇","phone":"15301192261","password":"123456"}
+[2017-12-21T00:33:59.172] [INFO] service - 
+[2017-12-21T00:33:59.262] [INFO] service - 92ms POST /user/new.json, user: , ip: ::ffff:127.0.0.1, body:{"user_name":"吴学宇","phone":"15301192221","password":"123456"}
+[2017-12-21T00:34:12.803] [INFO] service - app listening 14444
+[2017-12-21T00:34:12.845] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:34:17.738] [INFO] service - app listening 14444
+[2017-12-21T00:34:17.761] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:34:37.708] [INFO] service - app listening 14444
+[2017-12-21T00:34:37.731] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T00:34:57.887] [INFO] service - app listening 14444
+[2017-12-21T00:34:57.909] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T10:23:49.419] [INFO] service - app listening 14444
+[2017-12-21T10:23:49.433] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T10:23:54.478] [INFO] service - app listening 14444
+[2017-12-21T10:23:54.498] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T10:24:16.889] [INFO] service - app listening 14444
+[2017-12-21T10:24:16.913] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T10:24:22.076] [INFO] service - app listening 14444
+[2017-12-21T10:24:22.097] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T10:24:36.127] [INFO] service - app listening 14444
+[2017-12-21T10:24:36.156] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T10:25:49.830] [INFO] service - app listening 14444
+[2017-12-21T10:25:49.850] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T10:25:52.464] [INFO] service - app listening 14444
+[2017-12-21T10:25:52.495] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T10:25:53.500] [INFO] service - app listening 14444
+[2017-12-21T10:25:53.525] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T10:28:18.498] [INFO] service - app listening 14444
+[2017-12-21T10:28:18.512] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T10:28:21.580] [INFO] service - app listening 14444
+[2017-12-21T10:28:21.601] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T10:28:32.419] [INFO] service - app listening 14444
+[2017-12-21T10:28:32.438] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T10:47:27.209] [INFO] service - app listening 14444
+[2017-12-21T10:47:27.225] [ERROR] service - Failed to connect mongodb:MongoError: failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+[2017-12-21T10:48:04.821] [INFO] service - app listening 14444
+[2017-12-21T10:48:04.844] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T10:49:04.210] [INFO] service - 
+[2017-12-21T10:49:04.226] [ERROR] service - ip=127.0.0.1 | url=/user/new.json | param={"user_name":"吴学宇","phone":"15301192221","password":"123456"} | result={"error_code":20038,"error_msg":"手机号已注册","request":"/user/new.json"}
+[2017-12-21T10:49:04.233] [INFO] service - 34ms POST /user/new.json, ip: 127.0.0.1, body:{"user_name":"吴学宇","phone":"15301192221","password":"123456"}
+[2017-12-21T10:52:38.188] [INFO] service - app listening 14444
+[2017-12-21T10:52:38.213] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T10:52:44.651] [INFO] service - app listening 14444
+[2017-12-21T10:52:44.679] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T10:55:10.318] [INFO] service - app listening 14444
+[2017-12-21T10:55:10.337] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T10:55:14.017] [INFO] service - app listening 14444
+[2017-12-21T10:55:14.042] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T11:53:28.837] [INFO] service - app listening 14444
+[2017-12-21T11:53:28.854] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T11:56:46.567] [INFO] service - app listening 14444
+[2017-12-21T11:56:46.592] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T11:56:47.474] [INFO] service - app listening 14444
+[2017-12-21T11:56:47.500] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T11:57:05.786] [INFO] service - app listening 14444
+[2017-12-21T11:57:05.811] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T11:57:14.599] [INFO] service - app listening 14444
+[2017-12-21T11:57:14.624] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T11:58:14.921] [INFO] service - 
+[2017-12-21T11:58:15.015] [INFO] service - 107ms POST /user/new.json, ip: 127.0.0.1, body:{"user_name":"吴学宇","phone":"15301192221","password":"123456"}
+[2017-12-21T12:02:24.824] [INFO] service - app listening 14444
+[2017-12-21T12:02:24.856] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T12:02:29.018] [INFO] service - app listening 14444
+[2017-12-21T12:02:29.044] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T12:02:33.229] [INFO] service - 
+[2017-12-21T12:02:33.263] [ERROR] service - {"ip":"127.0.0.1","url":"/user/new.json","param":{"user_name":"吴学宇","phone":"15301192221","password":"123456"},"result":{"error_code":20038,"error_msg":"手机号已注册","request":"/user/new.json"},"time":"67ms"}
+[2017-12-21T12:02:43.666] [INFO] service - 
+[2017-12-21T12:02:43.753] [INFO] service - {"ip":"127.0.0.1","url":"/user/new.json","param":{"user_name":"吴学宇","phone":"15301192222","password":"123456"},"result":{"result":{"created_at":1513828963672,"updated_at":1513828963671,"user_name":"吴学宇","phone":"15301192222","_id":"5a3b32633073420fb433de1c"},"error_code":0},"time":"87ms"}
+[2017-12-21T12:03:13.642] [INFO] service - app listening 14444
+[2017-12-21T12:03:13.665] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T12:03:34.496] [INFO] service - app listening 14444
+[2017-12-21T12:03:34.515] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T12:03:37.807] [INFO] service - app listening 14444
+[2017-12-21T12:03:37.838] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T12:03:47.363] [INFO] service - app listening 14444
+[2017-12-21T12:03:47.390] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T12:04:11.261] [INFO] service - app listening 14444
+[2017-12-21T12:04:11.282] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T12:46:01.415] [INFO] service - app listening 14444
+[2017-12-21T12:46:01.440] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T12:46:03.918] [INFO] service - app listening 14444
+[2017-12-21T12:46:03.943] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T12:46:04.906] [INFO] service - app listening 14444
+[2017-12-21T12:46:04.931] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T12:46:17.261] [INFO] service - app listening 14444
+[2017-12-21T12:46:17.289] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T12:46:32.747] [INFO] service - app listening 14444
+[2017-12-21T12:46:32.773] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T13:28:53.711] [INFO] service - app listening 14444
+[2017-12-21T13:28:53.729] [ERROR] service - Failed to connect mongodb:MongoError: failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+[2017-12-21T13:37:45.386] [INFO] service - app listening 14444
+[2017-12-21T13:37:45.413] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T13:47:08.031] [INFO] service - 
+[2017-12-21T13:47:08.042] [ERROR] service - {"ip":"127.0.0.1","url":"/user/new.json","param":{"file":""},"result":{"error_code":10005,"error_msg":"（\"user_name\" is required)，see doc for more info","request":"/user/new.json"},"time":"22ms"}
+[2017-12-21T13:47:09.448] [INFO] service - 
+[2017-12-21T13:47:09.450] [ERROR] service - {"ip":"127.0.0.1","url":"/user/new.json","param":{"file":""},"result":{"error_code":10005,"error_msg":"（\"user_name\" is required)，see doc for more info","request":"/user/new.json"},"time":"2ms"}
+[2017-12-21T13:47:10.286] [INFO] service - 
+[2017-12-21T13:47:10.287] [ERROR] service - {"ip":"127.0.0.1","url":"/user/new.json","param":{"file":""},"result":{"error_code":10005,"error_msg":"（\"user_name\" is required)，see doc for more info","request":"/user/new.json"},"time":"2ms"}
+[2017-12-21T13:47:10.829] [INFO] service - 
+[2017-12-21T13:47:10.830] [ERROR] service - {"ip":"127.0.0.1","url":"/user/new.json","param":{"file":""},"result":{"error_code":10005,"error_msg":"（\"user_name\" is required)，see doc for more info","request":"/user/new.json"},"time":"3ms"}
+[2017-12-21T13:47:11.281] [INFO] service - 
+[2017-12-21T13:47:11.283] [ERROR] service - {"ip":"127.0.0.1","url":"/user/new.json","param":{"file":""},"result":{"error_code":10005,"error_msg":"（\"user_name\" is required)，see doc for more info","request":"/user/new.json"},"time":"4ms"}
+[2017-12-21T13:47:11.712] [INFO] service - 
+[2017-12-21T13:47:11.713] [ERROR] service - {"ip":"127.0.0.1","url":"/user/new.json","param":{"file":""},"result":{"error_code":10005,"error_msg":"（\"user_name\" is required)，see doc for more info","request":"/user/new.json"},"time":"2ms"}
+[2017-12-21T13:47:12.169] [INFO] service - 
+[2017-12-21T13:47:12.170] [ERROR] service - {"ip":"127.0.0.1","url":"/user/new.json","param":{"file":""},"result":{"error_code":10005,"error_msg":"（\"user_name\" is required)，see doc for more info","request":"/user/new.json"},"time":"2ms"}
+[2017-12-21T13:47:13.403] [INFO] service - 
+[2017-12-21T13:47:13.403] [ERROR] service - {"ip":"127.0.0.1","url":"/user/new.json","param":{"file":""},"result":{"error_code":10005,"error_msg":"（\"user_name\" is required)，see doc for more info","request":"/user/new.json"},"time":"2ms"}
+[2017-12-21T13:47:13.888] [INFO] service - 
+[2017-12-21T13:47:13.889] [ERROR] service - {"ip":"127.0.0.1","url":"/user/new.json","param":{"file":""},"result":{"error_code":10005,"error_msg":"（\"user_name\" is required)，see doc for more info","request":"/user/new.json"},"time":"2ms"}
+[2017-12-21T13:47:14.253] [INFO] service - 
+[2017-12-21T13:47:14.255] [ERROR] service - {"ip":"127.0.0.1","url":"/user/new.json","param":{"file":""},"result":{"error_code":10005,"error_msg":"（\"user_name\" is required)，see doc for more info","request":"/user/new.json"},"time":"3ms"}
+[2017-12-21T13:47:14.603] [INFO] service - 
+[2017-12-21T13:47:14.604] [ERROR] service - {"ip":"127.0.0.1","url":"/user/new.json","param":{"file":""},"result":{"error_code":10005,"error_msg":"（\"user_name\" is required)，see doc for more info","request":"/user/new.json"},"time":"2ms"}
+[2017-12-21T13:47:14.924] [INFO] service - 
+[2017-12-21T13:47:14.925] [ERROR] service - {"ip":"127.0.0.1","url":"/user/new.json","param":{"file":""},"result":{"error_code":10005,"error_msg":"（\"user_name\" is required)，see doc for more info","request":"/user/new.json"},"time":"2ms"}
+[2017-12-21T13:47:45.444] [INFO] service - 
+[2017-12-21T13:47:45.445] [ERROR] service - {"ip":"127.0.0.1","url":"/user/new.json","param":{"user_name":"王大炮"},"result":{"error_code":10005,"error_msg":"（\"password\" is required)，see doc for more info","request":"/user/new.json"},"time":"2ms"}
+[2017-12-21T13:47:56.828] [INFO] service - 
+[2017-12-21T13:47:56.829] [ERROR] service - {"ip":"127.0.0.1","url":"/user/new.json","param":{"user_name":"王大炮","password":"23","":""},"result":{"error_code":10005,"error_msg":"（\"phone\" is required)，see doc for more info","request":"/user/new.json"},"time":"2ms"}
+[2017-12-21T13:48:08.562] [INFO] service - 
+[2017-12-21T13:48:08.640] [INFO] service - {"ip":"127.0.0.1","url":"/user/new.json","param":{"user_name":"王大炮","password":"23","phone":"1503817637"},"result":{"result":{"created_at":1513835288563,"updated_at":1513835288563,"user_name":"王大炮","phone":"1503817637","_id":"5a3b4b1876258e02afcbe4d8"},"error_code":0},"time":"79ms"}
+[2017-12-21T13:48:13.707] [INFO] service - 
+[2017-12-21T13:48:13.712] [ERROR] service - {"ip":"127.0.0.1","url":"/user/new.json","param":{"user_name":"王大炮","password":"23","phone":"1503817637"},"result":{"error_code":20038,"error_msg":"手机号已注册","request":"/user/new.json"},"time":"5ms"}
+[2017-12-21T13:49:07.868] [INFO] service - 
+[2017-12-21T13:49:07.870] [ERROR] service - {"ip":"127.0.0.1","url":"/user/new.json","param":{"user_name":"王大炮","password":"23","phone":"1503817637"},"result":{"error_code":20038,"error_msg":"手机号已注册","request":"/user/new.json"},"time":"2ms"}
+[2017-12-21T14:00:55.874] [INFO] service - app listening 14444
+[2017-12-21T14:00:55.897] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T14:31:23.752] [INFO] service - 
+[2017-12-21T14:31:23.764] [ERROR] service - {"ip":"127.0.0.1","url":"/user/new.json","param":{"password":"23","phone":"1503817637"},"result":{"error_code":10005,"error_msg":"（\"user_name\" is required)，see doc for more info","request":"/user/new.json"},"time":"22ms"}
+[2017-12-21T14:31:33.650] [INFO] service - app listening 14444
+[2017-12-21T14:31:33.673] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T14:31:47.389] [INFO] service - 
+[2017-12-21T14:31:47.406] [ERROR] service - {"ip":"127.0.0.1","url":"/user/new.json","param":{"password":"23","phone":"1503817637"},"result":{"error_code":20038,"error_msg":"手机号已注册","request":"/user/new.json"},"time":"29ms"}
+[2017-12-21T14:31:48.984] [INFO] service - 
+[2017-12-21T14:31:48.988] [ERROR] service - {"ip":"127.0.0.1","url":"/user/new.json","param":{"password":"23","phone":"1503817637"},"result":{"error_code":20038,"error_msg":"手机号已注册","request":"/user/new.json"},"time":"6ms"}
+[2017-12-21T16:22:14.488] [INFO] service - app listening 14444
+[2017-12-21T16:22:14.515] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T16:22:23.266] [INFO] service - 
+[2017-12-21T16:22:23.267] [INFO] service - hook信息缺失
+[2017-12-21T16:22:25.365] [INFO] service - 
+[2017-12-21T16:22:25.365] [INFO] service - hook信息缺失
+[2017-12-21T16:22:46.662] [INFO] service - 
+[2017-12-21T16:22:46.663] [INFO] service - hook信息缺失
+[2017-12-21T16:23:17.149] [INFO] service - app listening 14444
+[2017-12-21T16:23:17.171] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T16:23:38.568] [INFO] service - 
+[2017-12-21T16:23:38.584] [ERROR] service - {"ip":"127.0.0.1","url":"/shop/new.json","param":{"password":"23","phone":"1503817637"},"result":{"error_code":10005,"error_msg":"（\"uid\" is required)，see doc for more info","request":"/shop/new.json"},"time":"27ms"}
+[2017-12-21T16:25:45.395] [INFO] service - 
+[2017-12-21T16:25:45.396] [ERROR] service - {"ip":"127.0.0.1","url":"/shop/new.json","param":{"uid":"23","vip_time":{"start_time":1513844727000,"end_time":1513844727000},"shop_name":"kldbs","shop_imgs":"","shop_info":"ksdk"},"result":{"error_code":10005,"error_msg":"（\"shop_imgs\" is not allowed to be empty)，see doc for more info","request":"/shop/new.json"},"time":"3ms"}
+[2017-12-21T16:26:42.082] [INFO] service - 
+[2017-12-21T16:26:42.086] [ERROR] service - {"ip":"127.0.0.1","url":"/shop/new.json","param":{"uid":"23","vip_time":{"start_time":1513844727000,"end_time":1513844727000},"shop_name":"kldbs","shop_imgs":"http://www.bjweimeng.cc/weixinkaifa/image/banner2.png","shop_info":"ksdk"},"result":{"request":"/shop/new.json","error_code":10001,"error_msg":"Shop validation failed: uid:  uid is required"},"time":"6ms"}
+[2017-12-21T16:27:28.237] [INFO] service - app listening 14444
+[2017-12-21T16:27:28.272] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T16:27:35.945] [INFO] service - 
+[2017-12-21T16:27:35.978] [INFO] service - {"ip":"127.0.0.1","url":"/shop/new.json","param":{"uid":"23","vip_time":{"start_time":1513844727000,"end_time":1513844727000},"shop_name":"kldbs","shop_imgs":"http://www.bjweimeng.cc/weixinkaifa/image/banner2.png","shop_info":"ksdk"},"result":{"result":{"shop_name":"kldbs","shop_imgs":"http://www.bjweimeng.cc/weixinkaifa/image/banner2.png","shop_info":"ksdk","uid":"23","_id":"5a3b7077a79a86044a719114","vip_time":{"end_time":1513844727000,"start_time":1513844727000}},"error_code":0},"time":"46ms"}
+[2017-12-21T16:31:59.708] [INFO] service - 
+[2017-12-21T16:31:59.709] [INFO] service - hook信息缺失
+[2017-12-21T16:32:37.031] [INFO] service - 
+[2017-12-21T16:32:37.031] [INFO] service - hook信息缺失
+[2017-12-21T16:32:37.763] [INFO] service - 
+[2017-12-21T16:32:37.763] [INFO] service - hook信息缺失
+[2017-12-21T16:32:38.195] [INFO] service - 
+[2017-12-21T16:32:38.195] [INFO] service - hook信息缺失
+[2017-12-21T16:33:07.339] [INFO] service - app listening 14444
+[2017-12-21T16:33:07.367] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T16:33:52.084] [INFO] service - app listening 14444
+[2017-12-21T16:33:52.117] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T16:33:56.751] [INFO] service - 
+[2017-12-21T16:40:27.544] [INFO] service - app listening 14444
+[2017-12-21T16:40:27.556] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T16:40:32.037] [INFO] service - 
+[2017-12-21T16:41:06.720] [INFO] service - 
+[2017-12-21T16:41:07.614] [INFO] service - 
+[2017-12-21T16:41:08.159] [INFO] service - 
+[2017-12-21T16:41:08.578] [INFO] service - 
+[2017-12-21T16:41:08.974] [INFO] service - 
+[2017-12-21T16:41:09.277] [INFO] service - 
+[2017-12-21T16:41:34.515] [INFO] service - app listening 14444
+[2017-12-21T16:41:34.545] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T16:41:38.571] [INFO] service - 
+[2017-12-21T16:43:27.301] [INFO] service - app listening 14444
+[2017-12-21T16:43:27.323] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T16:43:31.336] [INFO] service - 
+[2017-12-21T16:44:48.528] [INFO] service - app listening 14444
+[2017-12-21T16:44:48.551] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T16:44:53.819] [INFO] service - 
+[2017-12-21T16:45:21.072] [INFO] service - app listening 14444
+[2017-12-21T16:45:21.095] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T16:45:38.575] [INFO] service - 
+[2017-12-21T17:03:44.073] [INFO] service - 
+[2017-12-21T17:03:44.074] [INFO] service - hook信息缺失
+[2017-12-21T17:06:06.862] [INFO] service - 
+[2017-12-21T17:06:06.865] [ERROR] service - {"ip":"10.111.9.20","url":"/shop/new.json","param":{"uid":23},"result":{"error_code":10005,"error_msg":"（\"uid\" must be a string)，see doc for more info","request":"/shop/new.json"},"time":"4ms"}
+[2017-12-21T17:06:23.090] [INFO] service - 
+[2017-12-21T17:06:23.091] [ERROR] service - {"ip":"10.111.9.20","url":"/shop/new.json","param":{"uid":"23"},"result":{"error_code":10005,"error_msg":"（\"vip_time\" is required)，see doc for more info","request":"/shop/new.json"},"time":"2ms"}
+[2017-12-21T17:06:32.927] [INFO] service - app listening 14444
+[2017-12-21T17:06:32.953] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T17:06:45.034] [INFO] service - 
+[2017-12-21T17:06:45.048] [ERROR] service - {"ip":"10.111.9.20","url":"/shop/find.json","param":{},"result":{"error_code":10005,"error_msg":"（\"uid\" is required)，see doc for more info","request":"/shop/find.json"},"time":"34ms"}
+[2017-12-21T17:06:53.927] [INFO] service - 
+[2017-12-21T17:17:30.614] [INFO] service - 
+[2017-12-21T17:17:30.614] [INFO] service - hook信息缺失
+[2017-12-21T17:22:15.086] [INFO] service - 
+[2017-12-21T17:22:15.086] [INFO] service - hook信息缺失
+[2017-12-21T17:23:33.118] [INFO] service - 
+[2017-12-21T17:23:33.118] [INFO] service - hook信息缺失
+[2017-12-21T17:27:49.402] [INFO] service - 
+[2017-12-21T17:27:49.402] [INFO] service - hook信息缺失
+[2017-12-21T17:28:15.046] [INFO] service - 
+[2017-12-21T17:28:15.046] [INFO] service - hook信息缺失
+[2017-12-21T17:28:29.758] [INFO] service - app listening 14444
+[2017-12-21T17:28:29.780] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T17:28:37.332] [INFO] service - 
+[2017-12-21T17:28:37.332] [INFO] service - hook信息缺失
+[2017-12-21T17:28:39.954] [INFO] service - 
+[2017-12-21T17:28:39.955] [INFO] service - hook信息缺失
+[2017-12-21T17:28:44.876] [INFO] service - 
+[2017-12-21T17:28:44.876] [INFO] service - hook信息缺失
+[2017-12-21T17:30:14.888] [INFO] service - app listening 14444
+[2017-12-21T17:30:14.921] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T17:30:23.023] [INFO] service - 
+[2017-12-21T17:30:23.023] [INFO] service - hook信息缺失
+[2017-12-21T17:30:24.022] [INFO] service - 
+[2017-12-21T17:30:24.022] [INFO] service - hook信息缺失
+[2017-12-21T17:30:24.988] [INFO] service - 
+[2017-12-21T17:30:24.988] [INFO] service - hook信息缺失
+[2017-12-21T17:30:30.477] [INFO] service - 
+[2017-12-21T17:30:30.477] [INFO] service - hook信息缺失
+[2017-12-21T17:31:35.186] [INFO] service - 
+[2017-12-21T17:31:35.186] [INFO] service - hook信息缺失
+[2017-12-21T17:31:41.083] [INFO] service - app listening 14444
+[2017-12-21T17:31:41.117] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T17:31:47.579] [INFO] service - 
+[2017-12-21T17:31:47.579] [INFO] service - hook信息缺失
+[2017-12-21T17:31:48.469] [INFO] service - 
+[2017-12-21T17:31:48.469] [INFO] service - hook信息缺失
+[2017-12-21T17:33:08.726] [INFO] service - 
+[2017-12-21T17:33:08.745] [ERROR] service - {"ip":"127.0.0.1","url":"/user/admin/new.json","param":{"password":"admin","phone":"admin","user_group":"0"},"result":{"request":"/user/admin/new.json","error_code":10001,"error_msg":"Cannot read property '_id' of null"},"time":"27ms"}
+[2017-12-21T17:33:20.265] [INFO] service - 
+[2017-12-21T17:33:20.268] [ERROR] service - {"ip":"127.0.0.1","url":"/user/admin/new.json","param":{"password":"admin","phone":"admin"},"result":{"request":"/user/admin/new.json","error_code":10001,"error_msg":"Cannot read property '_id' of null"},"time":"3ms"}
+[2017-12-21T17:33:53.170] [INFO] service - 
+[2017-12-21T17:33:53.171] [INFO] service - hook信息缺失
+[2017-12-21T17:35:51.015] [INFO] service - 
+[2017-12-21T17:35:51.017] [ERROR] service - {"ip":"127.0.0.1","url":"/user/admin/new.json","param":{"password":"admin","phone":"admin"},"result":{"request":"/user/admin/new.json","error_code":10001,"error_msg":"Cannot read property '_id' of null"},"time":"3ms"}
+[2017-12-21T17:36:03.235] [INFO] service - app listening 14444
+[2017-12-21T17:36:03.267] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T17:36:07.547] [INFO] service - 
+[2017-12-21T17:36:07.646] [INFO] service - {"ip":"127.0.0.1","url":"/user/admin/new.json","param":{"password":"admin","phone":"admin"},"result":{"result":{"created_at":1513848967564,"updated_at":1513848967564,"phone":"admin","user_group":0,"_id":"5a3b808789002004df3b7373"},"error_code":0},"time":"111ms"}
+[2017-12-21T17:40:43.617] [INFO] service - app listening 14444
+[2017-12-21T17:40:43.651] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T17:40:56.392] [INFO] service - 
+[2017-12-21T17:40:56.410] [INFO] service - {"ip":"127.0.0.1","url":"/user/login.json","param":{"password":"admin","phone":"admin"},"result":{"result":{"_id":"5a3b808789002004df3b7373","created_at":1513848967564,"updated_at":1513848967564,"phone":"admin","user_group":0},"error_code":0},"time":"28ms"}
+[2017-12-21T17:42:17.898] [INFO] service - 
+[2017-12-21T17:42:17.984] [INFO] service - {"ip":"127.0.0.1","url":"/user/staff/new.json","param":{"password":"123456","phone":"123456"},"result":{"result":{"created_at":1513849337903,"updated_at":1513849337903,"phone":"123456","user_group":1,"_id":"5a3b81f948c99b04e3f2027a"},"error_code":0},"time":"87ms"}
+[2017-12-21T17:43:13.163] [INFO] service - 
+[2017-12-21T17:43:13.165] [INFO] service - {"ip":"127.0.0.1","url":"/user/login.json","param":{"password":"123456","phone":"123456"},"result":{"result":{"_id":"5a3b81f948c99b04e3f2027a","created_at":1513849337903,"updated_at":1513849337903,"phone":"123456","user_group":1},"error_code":0},"time":"4ms"}
+[2017-12-21T17:51:32.126] [INFO] service - app listening 14444
+[2017-12-21T17:51:32.150] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T17:51:44.216] [INFO] service - 
+[2017-12-21T17:51:44.232] [INFO] service - {"ip":"127.0.0.1","url":"/user/login.json","param":{"password":"123456","phone":"123456"},"result":{"result":{"created_at":1513849337903,"updated_at":1513849337903,"phone":"123456","password":"$2a$09$zN22OBXQTutW1RBjlQAnd.IRB4.kf6cCX7ZSfN0wU5ApFx3yGuc1m","user_group":1},"error_code":0},"time":"25ms"}
+[2017-12-21T17:54:44.527] [INFO] service - app listening 14444
+[2017-12-21T17:54:44.548] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-21T17:54:47.679] [INFO] service - 
+[2017-12-21T17:54:47.693] [INFO] service - {"ip":"127.0.0.1","url":"/user/login.json","param":{"password":"123456","phone":"123456"},"result":{"result":{"uid":"5a3b81f948c99b04e3f2027a","phone":"123456","user_group":1},"error_code":0},"time":"24ms"}

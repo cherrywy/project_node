@@ -1,0 +1,876 @@
+[2017-12-26T11:20:55.517] [INFO] service - app listening 14444
+[2017-12-26T11:20:55.534] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-26T11:21:16.175] [INFO] service - 
+[2017-12-26T11:21:16.187] [ERROR] service - {"ip":"127.0.0.1","url":"/user/staff/new.json","param":{"phone":"1","password":"2"},"result":{"error_code":10005,"error_msg":"（\"vip_time\" is required)，see doc for more info","request":"/user/staff/new.json"},"time":"20ms"}
+[2017-12-26T11:24:07.129] [INFO] service - 
+[2017-12-26T11:24:07.185] [INFO] service - {"ip":"10.111.9.247","url":"/user/staff/new.json","param":{"phone":"wang","password":"wagn","vip_time":{"start_time":1512057600000,"end_time":1517328000000}},"result":{"result":{"created_at":1514258647131,"updated_at":1514258647131,"phone":"wang","user_group":1,"_id":"5a41c0d758428d028cb4707e","vip_time":{"end_time":1517328000000,"start_time":1512057600000}},"error_code":0},"time":"57ms"}
+[2017-12-26T11:26:14.886] [INFO] service - 
+[2017-12-26T11:26:14.886] [INFO] service - hook信息缺失
+[2017-12-26T11:26:17.073] [INFO] service - 
+[2017-12-26T11:26:17.073] [INFO] service - hook信息缺失
+[2017-12-26T11:26:26.028] [INFO] service - 
+[2017-12-26T11:26:26.029] [INFO] service - hook信息缺失
+[2017-12-26T11:26:36.099] [INFO] service - 
+[2017-12-26T11:26:36.099] [INFO] service - hook信息缺失
+[2017-12-26T11:26:36.928] [INFO] service - 
+[2017-12-26T11:26:36.928] [INFO] service - hook信息缺失
+[2017-12-26T11:26:40.711] [INFO] service - 
+[2017-12-26T11:26:40.711] [INFO] service - hook信息缺失
+[2017-12-26T11:27:00.342] [INFO] service - 
+[2017-12-26T11:27:00.342] [INFO] service - hook信息缺失
+[2017-12-26T11:27:07.591] [INFO] service - 
+[2017-12-26T11:27:07.591] [INFO] service - hook信息缺失
+[2017-12-26T11:27:38.348] [INFO] service - app listening 14444
+[2017-12-26T11:27:38.365] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-26T11:27:39.704] [INFO] service - 
+[2017-12-26T11:27:39.704] [INFO] service - hook信息缺失
+[2017-12-26T11:27:41.217] [INFO] service - 
+[2017-12-26T11:27:41.217] [INFO] service - hook信息缺失
+[2017-12-26T11:27:42.714] [INFO] service - 
+[2017-12-26T11:27:42.714] [INFO] service - hook信息缺失
+[2017-12-26T11:27:57.855] [INFO] service - 
+[2017-12-26T11:27:57.855] [INFO] service - hook信息缺失
+[2017-12-26T11:28:41.346] [INFO] service - 
+[2017-12-26T11:28:41.347] [INFO] service - hook信息缺失
+[2017-12-26T11:28:51.182] [INFO] service - 
+[2017-12-26T11:28:51.183] [INFO] service - hook信息缺失
+[2017-12-26T11:28:59.932] [INFO] service - app listening 14444
+[2017-12-26T11:28:59.948] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-26T11:29:01.330] [INFO] service - 
+[2017-12-26T11:29:01.331] [INFO] service - hook信息缺失
+[2017-12-26T11:29:03.980] [INFO] service - 
+[2017-12-26T11:29:03.981] [INFO] service - hook信息缺失
+[2017-12-26T11:29:26.224] [INFO] service - app listening 14444
+[2017-12-26T11:29:26.242] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-26T11:29:28.819] [INFO] service - 
+[2017-12-26T11:29:34.697] [INFO] service - 
+[2017-12-26T11:29:34.701] [ERROR] service - {"ip":"10.111.9.247","url":"/user/staff/find.json","param":{},"result":{"error_code":10005,"error_msg":"（\"user_group\" is required)，see doc for more info","request":"/user/staff/find.json"},"time":"5ms"}
+[2017-12-26T11:29:58.100] [INFO] service - 
+[2017-12-26T11:29:58.102] [ERROR] service - {"ip":"10.111.9.247","url":"/user/staff/find.json","param":{},"result":{"error_code":10005,"error_msg":"（\"user_group\" is required)，see doc for more info","request":"/user/staff/find.json"},"time":"2ms"}
+[2017-12-26T11:30:01.026] [INFO] service - 
+[2017-12-26T12:53:34.095] [INFO] service - 
+[2017-12-26T12:53:34.099] [INFO] service - {"ip":"10.111.9.247","url":"/user/login.json","param":{"phone":"test","password":"test"},"result":{"result":{"uid":"5a3ca671c9c1c50318385662","phone":"test","user_group":1},"error_code":0},"time":"9ms"}
+[2017-12-26T12:53:34.236] [INFO] service - 
+[2017-12-26T12:53:36.259] [INFO] service - 
+[2017-12-26T12:53:41.359] [INFO] service - 
+[2017-12-26T12:56:23.591] [INFO] service - 
+[2017-12-26T12:56:25.014] [INFO] service - 
+[2017-12-26T12:56:26.858] [INFO] service - 
+[2017-12-26T12:56:28.291] [INFO] service - 
+[2017-12-26T12:56:35.367] [INFO] service - 
+[2017-12-26T12:56:38.940] [INFO] service - 
+[2017-12-26T12:56:48.552] [INFO] service - 
+[2017-12-26T12:56:53.175] [INFO] service - 
+[2017-12-26T12:56:58.201] [INFO] service - 
+[2017-12-26T12:59:58.441] [INFO] service - 
+[2017-12-26T13:00:08.873] [INFO] service - 
+[2017-12-26T13:00:23.518] [INFO] service - 
+[2017-12-26T13:02:16.469] [INFO] service - 
+[2017-12-26T13:05:04.097] [INFO] service - 
+[2017-12-26T13:07:54.081] [INFO] service - app listening 14444
+[2017-12-26T13:07:54.100] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-26T13:08:09.768] [INFO] service - 
+[2017-12-26T13:08:09.780] [ERROR] service - {"ip":"127.0.0.1","url":"/shop/find.json","param":{},"result":{"error_code":10005,"error_msg":"（\"uid\" is required)，see doc for more info","request":"/shop/find.json"},"time":"20ms"}
+[2017-12-26T13:08:30.454] [INFO] service - app listening 14444
+[2017-12-26T13:08:30.470] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-26T13:08:35.753] [INFO] service - 
+[2017-12-26T13:11:24.729] [INFO] service - 
+[2017-12-26T13:11:29.837] [INFO] service - 
+[2017-12-26T13:11:58.726] [INFO] service - 
+[2017-12-26T13:12:02.385] [INFO] service - 
+[2017-12-26T13:12:14.714] [INFO] service - 
+[2017-12-26T13:12:24.014] [INFO] service - 
+[2017-12-26T13:12:26.370] [INFO] service - 
+[2017-12-26T13:12:41.326] [INFO] service - 
+[2017-12-26T13:12:44.086] [INFO] service - 
+[2017-12-26T13:13:15.018] [INFO] service - 
+[2017-12-26T13:13:25.973] [INFO] service - 
+[2017-12-26T13:13:27.250] [INFO] service - 
+[2017-12-26T13:13:28.715] [INFO] service - 
+[2017-12-26T13:13:52.809] [INFO] service - 
+[2017-12-26T13:13:57.998] [INFO] service - 
+[2017-12-26T13:14:00.188] [INFO] service - 
+[2017-12-26T13:14:01.400] [INFO] service - 
+[2017-12-26T13:14:10.119] [INFO] service - 
+[2017-12-26T13:14:11.845] [INFO] service - 
+[2017-12-26T13:14:13.996] [INFO] service - 
+[2017-12-26T13:14:20.247] [INFO] service - 
+[2017-12-26T13:14:28.375] [INFO] service - 
+[2017-12-26T13:14:31.303] [INFO] service - 
+[2017-12-26T13:14:37.451] [INFO] service - 
+[2017-12-26T13:14:45.340] [INFO] service - 
+[2017-12-26T13:14:47.687] [INFO] service - 
+[2017-12-26T13:15:03.769] [INFO] service - 
+[2017-12-26T13:15:10.534] [INFO] service - 
+[2017-12-26T13:15:15.340] [INFO] service - 
+[2017-12-26T13:15:28.039] [INFO] service - 
+[2017-12-26T13:15:29.947] [INFO] service - 
+[2017-12-26T13:15:35.412] [INFO] service - 
+[2017-12-26T13:15:36.613] [INFO] service - 
+[2017-12-26T13:15:41.632] [INFO] service - 
+[2017-12-26T13:15:57.552] [INFO] service - 
+[2017-12-26T13:16:05.647] [INFO] service - app listening 14444
+[2017-12-26T13:16:05.663] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-26T13:16:06.144] [INFO] service - 
+[2017-12-26T13:16:11.349] [INFO] service - 
+[2017-12-26T13:16:34.194] [INFO] service - 
+[2017-12-26T13:16:37.669] [INFO] service - 
+[2017-12-26T13:16:39.206] [INFO] service - 
+[2017-12-26T13:16:46.173] [INFO] service - 
+[2017-12-26T13:16:49.445] [INFO] service - 
+[2017-12-26T13:16:56.109] [INFO] service - 
+[2017-12-26T13:17:01.960] [INFO] service - 
+[2017-12-26T13:17:03.909] [INFO] service - 
+[2017-12-26T13:17:08.904] [INFO] service - 
+[2017-12-26T13:17:11.154] [INFO] service - 
+[2017-12-26T13:17:12.691] [INFO] service - 
+[2017-12-26T13:17:14.227] [INFO] service - 
+[2017-12-26T13:17:57.589] [INFO] service - 
+[2017-12-26T13:17:58.712] [INFO] service - 
+[2017-12-26T13:18:04.106] [INFO] service - 
+[2017-12-26T13:18:09.884] [INFO] service - 
+[2017-12-26T13:18:44.378] [INFO] service - 
+[2017-12-26T13:18:45.854] [INFO] service - 
+[2017-12-26T13:18:48.849] [INFO] service - 
+[2017-12-26T13:18:51.818] [INFO] service - 
+[2017-12-26T13:18:54.642] [INFO] service - 
+[2017-12-26T13:18:58.394] [INFO] service - 
+[2017-12-26T13:19:00.831] [INFO] service - 
+[2017-12-26T13:19:07.798] [INFO] service - 
+[2017-12-26T13:19:10.816] [INFO] service - 
+[2017-12-26T13:19:12.196] [INFO] service - 
+[2017-12-26T13:19:14.859] [INFO] service - 
+[2017-12-26T13:19:19.159] [INFO] service - 
+[2017-12-26T13:19:26.845] [INFO] service - 
+[2017-12-26T13:19:28.072] [INFO] service - 
+[2017-12-26T13:19:34.217] [INFO] service - 
+[2017-12-26T13:19:35.135] [INFO] service - 
+[2017-12-26T13:19:51.145] [INFO] service - 
+[2017-12-26T13:19:53.044] [INFO] service - 
+[2017-12-26T13:19:56.946] [INFO] service - 
+[2017-12-26T13:20:00.736] [INFO] service - 
+[2017-12-26T13:20:03.808] [INFO] service - 
+[2017-12-26T13:20:26.756] [INFO] service - 
+[2017-12-26T13:20:40.576] [INFO] service - 
+[2017-12-26T13:20:43.028] [INFO] service - 
+[2017-12-26T13:20:44.667] [INFO] service - 
+[2017-12-26T13:20:49.583] [INFO] service - 
+[2017-12-26T13:20:50.611] [INFO] service - 
+[2017-12-26T13:20:53.679] [INFO] service - 
+[2017-12-26T13:21:03.481] [INFO] service - 
+[2017-12-26T13:21:08.509] [INFO] service - 
+[2017-12-26T13:21:14.220] [INFO] service - 
+[2017-12-26T13:21:15.866] [INFO] service - 
+[2017-12-26T13:21:23.081] [INFO] service - 
+[2017-12-26T13:21:27.472] [INFO] service - 
+[2017-12-26T13:21:31.773] [INFO] service - 
+[2017-12-26T13:21:36.586] [INFO] service - 
+[2017-12-26T13:21:40.579] [INFO] service - 
+[2017-12-26T13:21:52.566] [INFO] service - 
+[2017-12-26T13:21:57.219] [INFO] service - 
+[2017-12-26T13:22:03.547] [INFO] service - 
+[2017-12-26T13:22:04.542] [INFO] service - 
+[2017-12-26T13:22:14.479] [INFO] service - 
+[2017-12-26T13:22:17.462] [INFO] service - 
+[2017-12-26T13:22:21.029] [INFO] service - 
+[2017-12-26T13:22:24.274] [INFO] service - 
+[2017-12-26T13:22:28.352] [INFO] service - 
+[2017-12-26T13:22:30.862] [INFO] service - 
+[2017-12-26T13:22:48.581] [INFO] service - 
+[2017-12-26T13:22:52.060] [INFO] service - 
+[2017-12-26T13:22:54.926] [INFO] service - 
+[2017-12-26T13:22:56.972] [INFO] service - 
+[2017-12-26T13:23:00.762] [INFO] service - 
+[2017-12-26T13:23:20.735] [INFO] service - 
+[2017-12-26T13:24:08.968] [INFO] service - 
+[2017-12-26T13:24:08.985] [INFO] service - 
+[2017-12-26T13:24:22.485] [INFO] service - 
+[2017-12-26T13:24:22.490] [INFO] service - 
+[2017-12-26T13:24:26.477] [INFO] service - 
+[2017-12-26T13:24:26.478] [INFO] service - 
+[2017-12-26T13:24:31.571] [INFO] service - 
+[2017-12-26T13:24:31.574] [INFO] service - 
+[2017-12-26T13:24:34.668] [INFO] service - 
+[2017-12-26T13:24:34.668] [INFO] service - 
+[2017-12-26T13:24:37.339] [INFO] service - 
+[2017-12-26T13:24:37.343] [INFO] service - 
+[2017-12-26T13:24:50.146] [INFO] service - 
+[2017-12-26T13:24:56.790] [INFO] service - 
+[2017-12-26T13:26:18.201] [INFO] service - 
+[2017-12-26T13:26:20.449] [INFO] service - 
+[2017-12-26T13:26:23.931] [INFO] service - 
+[2017-12-26T13:26:41.344] [INFO] service - 
+[2017-12-26T13:27:03.669] [INFO] service - 
+[2017-12-26T13:27:19.131] [INFO] service - 
+[2017-12-26T13:27:21.277] [INFO] service - 
+[2017-12-26T13:27:30.606] [INFO] service - 
+[2017-12-26T13:27:40.036] [INFO] service - 
+[2017-12-26T13:27:42.890] [INFO] service - 
+[2017-12-26T13:27:48.627] [INFO] service - 
+[2017-12-26T13:28:00.912] [INFO] service - 
+[2017-12-26T13:28:06.359] [INFO] service - 
+[2017-12-26T13:28:08.385] [INFO] service - 
+[2017-12-26T13:28:12.171] [INFO] service - 
+[2017-12-26T13:28:14.935] [INFO] service - 
+[2017-12-26T13:28:17.491] [INFO] service - 
+[2017-12-26T13:28:22.859] [INFO] service - 
+[2017-12-26T13:28:26.407] [INFO] service - 
+[2017-12-26T13:28:30.707] [INFO] service - 
+[2017-12-26T13:28:32.762] [INFO] service - 
+[2017-12-26T13:28:36.543] [INFO] service - 
+[2017-12-26T13:28:39.412] [INFO] service - 
+[2017-12-26T13:28:50.679] [INFO] service - 
+[2017-12-26T13:28:52.109] [INFO] service - 
+[2017-12-26T13:28:55.387] [INFO] service - 
+[2017-12-26T13:28:57.332] [INFO] service - 
+[2017-12-26T13:28:58.870] [INFO] service - 
+[2017-12-26T13:29:02.964] [INFO] service - 
+[2017-12-26T13:29:05.626] [INFO] service - 
+[2017-12-26T13:29:07.674] [INFO] service - 
+[2017-12-26T13:31:33.603] [INFO] service - 
+[2017-12-26T13:31:35.034] [INFO] service - 
+[2017-12-26T13:31:51.218] [INFO] service - 
+[2017-12-26T13:31:52.654] [INFO] service - 
+[2017-12-26T13:31:54.489] [INFO] service - 
+[2017-12-26T13:32:00.024] [INFO] service - 
+[2017-12-26T13:32:04.218] [INFO] service - 
+[2017-12-26T13:32:12.108] [INFO] service - 
+[2017-12-26T13:32:22.963] [INFO] service - 
+[2017-12-26T13:32:28.541] [INFO] service - 
+[2017-12-26T13:32:28.544] [ERROR] service - {"ip":"10.111.9.247","url":"/shop/new.json","param":{"shop_id":"5a3b7077a79a86044a719114","vip_time":{"start_time":1512057600000,"end_time":1517328000000}},"result":{"error_code":10005,"error_msg":"（\"uid\" is required)，see doc for more info","request":"/shop/new.json"},"time":"5ms"}
+[2017-12-26T13:32:32.275] [INFO] service - 
+[2017-12-26T13:32:32.277] [ERROR] service - {"ip":"10.111.9.247","url":"/shop/new.json","param":{"shop_id":"5a3b7077a79a86044a719114","vip_time":{"isTrusted":true}},"result":{"error_code":10005,"error_msg":"（\"uid\" is required)，see doc for more info","request":"/shop/new.json"},"time":"2ms"}
+[2017-12-26T13:33:22.458] [INFO] service - 
+[2017-12-26T13:33:24.399] [INFO] service - 
+[2017-12-26T13:33:33.108] [INFO] service - 
+[2017-12-26T13:33:42.883] [INFO] service - 
+[2017-12-26T13:33:45.702] [INFO] service - 
+[2017-12-26T13:33:53.288] [INFO] service - 
+[2017-12-26T13:33:53.289] [ERROR] service - {"ip":"10.111.9.247","url":"/shop/new.json","param":{"shop_id":"5a3b7077a79a86044a719114","vip_time":{"start_time":1512057600000,"end_time":1517328000000}},"result":{"error_code":10005,"error_msg":"（\"uid\" is required)，see doc for more info","request":"/shop/new.json"},"time":"2ms"}
+[2017-12-26T13:34:09.463] [INFO] service - 
+[2017-12-26T13:34:15.913] [INFO] service - 
+[2017-12-26T13:34:33.775] [INFO] service - 
+[2017-12-26T13:34:54.522] [INFO] service - 
+[2017-12-26T13:34:55.824] [INFO] service - 
+[2017-12-26T13:34:56.826] [INFO] service - 
+[2017-12-26T13:35:00.556] [INFO] service - 
+[2017-12-26T13:35:02.296] [INFO] service - 
+[2017-12-26T13:35:05.266] [INFO] service - 
+[2017-12-26T13:35:13.022] [INFO] service - 
+[2017-12-26T13:35:18.406] [INFO] service - 
+[2017-12-26T13:35:24.222] [INFO] service - 
+[2017-12-26T13:35:41.334] [INFO] service - 
+[2017-12-26T13:35:43.872] [INFO] service - 
+[2017-12-26T13:35:47.663] [INFO] service - 
+[2017-12-26T13:35:53.203] [INFO] service - 
+[2017-12-26T13:35:53.204] [ERROR] service - {"ip":"10.111.9.247","url":"/shop/new.json","param":{"shop_id":"5a3b7077a79a86044a719114","uid":"23","vip_time":{"start_time":1512057600000,"end_time":1517328000000}},"result":{"error_code":10005,"error_msg":"（\"shop_num\" is required)，see doc for more info","request":"/shop/new.json"},"time":"2ms"}
+[2017-12-26T13:36:44.170] [INFO] service - 
+[2017-12-26T13:36:44.180] [INFO] service - 
+[2017-12-26T13:36:50.545] [INFO] service - 
+[2017-12-26T13:36:53.811] [INFO] service - 
+[2017-12-26T13:37:00.895] [INFO] service - 
+[2017-12-26T13:37:00.896] [INFO] service - hook信息缺失
+[2017-12-26T13:37:31.399] [INFO] service - 
+[2017-12-26T13:37:32.940] [INFO] service - 
+[2017-12-26T13:37:35.286] [INFO] service - 
+[2017-12-26T13:37:40.004] [INFO] service - 
+[2017-12-26T13:37:40.004] [INFO] service - hook信息缺失
+[2017-12-26T13:37:59.559] [INFO] service - 
+[2017-12-26T13:37:59.565] [INFO] service - 
+[2017-12-26T13:38:01.092] [INFO] service - 
+[2017-12-26T13:38:14.511] [INFO] service - 
+[2017-12-26T13:38:17.988] [INFO] service - 
+[2017-12-26T13:38:34.020] [INFO] service - 
+[2017-12-26T13:38:35.704] [INFO] service - 
+[2017-12-26T13:38:37.240] [INFO] service - 
+[2017-12-26T13:38:42.787] [INFO] service - 
+[2017-12-26T13:38:44.801] [INFO] service - 
+[2017-12-26T13:38:49.529] [INFO] service - 
+[2017-12-26T13:38:57.670] [INFO] service - 
+[2017-12-26T13:38:59.768] [INFO] service - 
+[2017-12-26T13:39:08.090] [INFO] service - 
+[2017-12-26T13:39:15.042] [INFO] service - 
+[2017-12-26T13:39:16.665] [INFO] service - 
+[2017-12-26T13:39:22.206] [INFO] service - 
+[2017-12-26T13:39:22.207] [ERROR] service - {"ip":"10.111.9.247","url":"/user/staff/update/vip_time.json","param":{"shop_id":"5a3b7077a79a86044a719114","vip_time":{"start_time":1512057600000,"end_time":1517328000000}},"result":{"request":"/user/staff/update/vip_time.json","error_code":10001,"error_msg":"food_id is not defined"},"time":"3ms"}
+[2017-12-26T13:40:07.383] [INFO] service - 
+[2017-12-26T13:40:26.408] [INFO] service - 
+[2017-12-26T13:40:33.781] [INFO] service - 
+[2017-12-26T13:40:41.665] [INFO] service - 
+[2017-12-26T13:40:59.588] [INFO] service - 
+[2017-12-26T13:41:04.194] [INFO] service - 
+[2017-12-26T13:41:11.672] [INFO] service - 
+[2017-12-26T13:41:16.186] [INFO] service - 
+[2017-12-26T13:41:18.834] [INFO] service - 
+[2017-12-26T13:41:21.700] [INFO] service - 
+[2017-12-26T13:41:24.054] [INFO] service - 
+[2017-12-26T13:41:27.228] [INFO] service - 
+[2017-12-26T13:41:41.305] [INFO] service - app listening 14444
+[2017-12-26T13:41:41.328] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-26T13:41:43.021] [INFO] service - 
+[2017-12-26T13:41:55.311] [INFO] service - 
+[2017-12-26T13:41:55.323] [ERROR] service - {"ip":"10.111.9.247","url":"/user/staff/update/vip_time.json","param":{"shop_id":"5a3b7077a79a86044a719114","vip_time":{"start_time":1512057600000,"end_time":1517328000000}},"result":{"request":"/user/staff/update/vip_time.json","error_code":10001,"error_msg":"phone is not defined"},"time":"13ms"}
+[2017-12-26T13:43:24.791] [INFO] service - 
+[2017-12-26T13:43:30.415] [INFO] service - 
+[2017-12-26T13:43:30.418] [ERROR] service - {"ip":"10.111.9.247","url":"/user/staff/update/vip_time.json","param":{"shop_id":"5a3b7077a79a86044a719114","vip_time":{"start_time":1512057600000,"end_time":1517328000000}},"result":{"request":"/user/staff/update/vip_time.json","error_code":10001,"error_msg":"phone is not defined"},"time":"4ms"}
+[2017-12-26T13:43:40.254] [INFO] service - 
+[2017-12-26T13:43:46.199] [INFO] service - 
+[2017-12-26T13:43:46.199] [INFO] service - hook信息缺失
+[2017-12-26T13:43:52.964] [INFO] service - 
+[2017-12-26T13:43:52.965] [INFO] service - hook信息缺失
+[2017-12-26T13:44:32.190] [INFO] service - app listening 14444
+[2017-12-26T13:44:32.208] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-26T13:44:36.382] [INFO] service - 
+[2017-12-26T13:44:44.821] [INFO] service - 
+[2017-12-26T13:44:50.033] [INFO] service - 
+[2017-12-26T13:44:51.418] [INFO] service - 
+[2017-12-26T13:44:55.515] [INFO] service - 
+[2017-12-26T13:45:01.254] [INFO] service - 
+[2017-12-26T13:45:05.985] [INFO] service - 
+[2017-12-26T13:45:05.990] [ERROR] service - {"ip":"10.111.9.247","url":"/user/staff/update/vip_time.json","param":{"shop_id":"5a3b7077a79a86044a719114","uid":"23","vip_time":{"start_time":1512057600000,"end_time":1517328000000}},"result":{"request":"/user/staff/update/vip_time.json","error_code":10001,"error_msg":"Cast to ObjectId failed for value \"23\" at path \"_id\" for model \"User\""},"time":"5ms"}
+[2017-12-26T13:47:02.516] [INFO] service - 
+[2017-12-26T13:47:02.519] [ERROR] service - {"ip":"127.0.0.1","url":"/user/staff/update/vip_time.json","param":{},"result":{"error_code":10005,"error_msg":"（\"vip_time\" is required)，see doc for more info","request":"/user/staff/update/vip_time.json"},"time":"3ms"}
+[2017-12-26T13:47:10.387] [INFO] service - 
+[2017-12-26T13:47:10.388] [ERROR] service - {"ip":"127.0.0.1","url":"/user/staff/update/vip_time.json","param":{},"result":{"error_code":10005,"error_msg":"（\"vip_time\" is required)，see doc for more info","request":"/user/staff/update/vip_time.json"},"time":"1ms"}
+[2017-12-26T13:47:37.828] [INFO] service - app listening 14444
+[2017-12-26T13:47:37.847] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-26T13:47:59.641] [INFO] service - 
+[2017-12-26T13:47:59.673] [ERROR] service - {"ip":"127.0.0.1","url":"/user/staff/update/vip_time.json","param":{},"result":{"request":"/user/staff/update/vip_time.json","error_code":10001,"error_msg":"Cannot read property '_id' of null"},"time":"36ms"}
+[2017-12-26T13:48:28.726] [INFO] service - 
+[2017-12-26T13:49:14.961] [INFO] service - 
+[2017-12-26T13:49:14.974] [INFO] service - {"ip":"10.111.9.247","url":"/user/staff/update/vip_time.json","param":{"shop_id":"5a3cc9007baaae0473f4a286","uid":"5a3cc6a52bc3b703f2ada10e","vip_time":{"start_time":1512057600000,"end_time":1517328000000}},"result":{"result":{"_id":"5a3cc6a52bc3b703f2ada10e","created_at":1513932453162,"updated_at":1513932453162,"phone":"gc","user_group":1,"vip_time":{"start_time":1512057600000,"end_time":1517328000000}},"error_code":0},"time":"12ms"}
+[2017-12-26T13:49:24.435] [INFO] service - 
+[2017-12-26T13:49:24.435] [INFO] service - hook信息缺失
+[2017-12-26T13:49:42.659] [INFO] service - 
+[2017-12-26T13:49:56.183] [INFO] service - 
+[2017-12-26T13:49:56.183] [INFO] service - hook信息缺失
+[2017-12-26T13:50:26.588] [INFO] service - 
+[2017-12-26T13:50:32.226] [INFO] service - app listening 14444
+[2017-12-26T13:50:32.241] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-26T13:50:38.173] [INFO] service - 
+[2017-12-26T13:50:41.845] [INFO] service - 
+[2017-12-26T13:50:43.999] [INFO] service - 
+[2017-12-26T13:50:46.265] [INFO] service - 
+[2017-12-26T13:50:46.265] [INFO] service - hook信息缺失
+[2017-12-26T13:50:59.256] [INFO] service - 
+[2017-12-26T13:51:08.275] [INFO] service - 
+[2017-12-26T13:51:08.275] [INFO] service - hook信息缺失
+[2017-12-26T13:51:16.581] [INFO] service - 
+[2017-12-26T13:51:21.814] [INFO] service - 
+[2017-12-26T13:51:30.694] [INFO] service - 
+[2017-12-26T13:51:34.177] [INFO] service - 
+[2017-12-26T13:51:34.178] [INFO] service - hook信息缺失
+[2017-12-26T13:51:57.531] [INFO] service - 
+[2017-12-26T13:52:00.079] [INFO] service - 
+[2017-12-26T13:52:03.356] [INFO] service - 
+[2017-12-26T13:52:05.199] [INFO] service - 
+[2017-12-26T13:52:07.560] [INFO] service - 
+[2017-12-26T13:52:07.560] [INFO] service - hook信息缺失
+[2017-12-26T13:52:19.549] [INFO] service - 
+[2017-12-26T13:52:19.550] [INFO] service - hook信息缺失
+[2017-12-26T13:53:04.099] [INFO] service - 
+[2017-12-26T13:53:04.099] [INFO] service - hook信息缺失
+[2017-12-26T13:53:13.814] [INFO] service - 
+[2017-12-26T13:53:29.988] [INFO] service - app listening 14444
+[2017-12-26T13:53:30.007] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-26T13:53:53.616] [INFO] service - 
+[2017-12-26T13:53:53.616] [INFO] service - hook信息缺失
+[2017-12-26T13:54:00.303] [INFO] service - 
+[2017-12-26T13:54:00.303] [INFO] service - hook信息缺失
+[2017-12-26T13:54:21.353] [INFO] service - 
+[2017-12-26T13:54:21.353] [INFO] service - hook信息缺失
+[2017-12-26T13:54:24.275] [INFO] service - 
+[2017-12-26T13:54:24.276] [INFO] service - hook信息缺失
+[2017-12-26T13:54:26.307] [INFO] service - app listening 14444
+[2017-12-26T13:54:26.323] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-26T13:54:29.906] [INFO] service - 
+[2017-12-26T13:54:29.925] [INFO] service - {"ip":"127.0.0.1","url":"/user/staff/remove.json","param":{"uid":"5a3cc6a52bc3b703f2ada10e"},"result":{"result":{"n":1,"ok":1},"error_code":0},"time":"25ms"}
+[2017-12-26T13:54:33.492] [INFO] service - 
+[2017-12-26T13:54:33.495] [ERROR] service - {"ip":"10.111.9.247","url":"/user/staff/remove.json","param":{"shop_id":"5a3b7077a79a86044a719114"},"result":{"error_code":10005,"error_msg":"（\"uid\" is required)，see doc for more info","request":"/user/staff/remove.json"},"time":"4ms"}
+[2017-12-26T13:54:35.940] [INFO] service - 
+[2017-12-26T13:54:39.119] [INFO] service - 
+[2017-12-26T13:54:39.120] [ERROR] service - {"ip":"10.111.9.247","url":"/user/staff/remove.json","param":{"shop_id":"5a3b7077a79a86044a719114"},"result":{"error_code":10005,"error_msg":"（\"uid\" is required)，see doc for more info","request":"/user/staff/remove.json"},"time":"2ms"}
+[2017-12-26T13:54:54.478] [INFO] service - 
+[2017-12-26T13:54:57.851] [INFO] service - 
+[2017-12-26T13:55:00.103] [INFO] service - 
+[2017-12-26T13:55:11.065] [INFO] service - 
+[2017-12-26T13:55:13.219] [INFO] service - 
+[2017-12-26T13:55:13.223] [ERROR] service - {"ip":"10.111.9.247","url":"/user/staff/remove.json","param":{"uid":"23"},"result":{"request":"/user/staff/remove.json","error_code":10001,"error_msg":"Cast to ObjectId failed for value \"23\" at path \"_id\" for model \"User\""},"time":"7ms"}
+[2017-12-26T13:55:21.212] [INFO] service - 
+[2017-12-26T13:55:21.214] [INFO] service - {"ip":"10.111.9.247","url":"/user/staff/remove.json","param":{"uid":"5a3cc6a52bc3b703f2ada10e"},"result":{"result":{"n":0,"ok":1},"error_code":0},"time":"3ms"}
+[2017-12-26T13:55:31.342] [INFO] service - 
+[2017-12-26T13:55:37.283] [INFO] service - 
+[2017-12-26T13:55:40.859] [INFO] service - 
+[2017-12-26T13:55:42.396] [INFO] service - 
+[2017-12-26T13:55:47.940] [INFO] service - 
+[2017-12-26T13:55:50.792] [INFO] service - 
+[2017-12-26T13:55:55.709] [INFO] service - 
+[2017-12-26T13:55:58.166] [INFO] service - 
+[2017-12-26T13:55:59.607] [INFO] service - 
+[2017-12-26T13:56:04.412] [INFO] service - 
+[2017-12-26T13:56:21.407] [INFO] service - 
+[2017-12-26T13:56:29.758] [INFO] service - 
+[2017-12-26T13:56:31.344] [INFO] service - 
+[2017-12-26T13:56:36.641] [INFO] service - 
+[2017-12-26T13:56:37.591] [INFO] service - 
+[2017-12-26T13:56:42.203] [INFO] service - 
+[2017-12-26T13:57:14.562] [INFO] service - 
+[2017-12-26T13:57:25.743] [INFO] service - 
+[2017-12-26T13:57:51.642] [INFO] service - 
+[2017-12-26T13:57:51.643] [ERROR] service - {"ip":"10.111.9.247","url":"/food/find.json","param":{"shop_id":null},"result":{"error_code":10005,"error_msg":"（\"shop_id\" must be a string)，see doc for more info","request":"/food/find.json"},"time":"2ms"}
+[2017-12-26T13:59:27.593] [INFO] service - 
+[2017-12-26T13:59:27.594] [ERROR] service - {"ip":"10.111.9.247","url":"/food/find.json","param":{"shop_id":null},"result":{"error_code":10005,"error_msg":"（\"shop_id\" must be a string)，see doc for more info","request":"/food/find.json"},"time":"2ms"}
+[2017-12-26T13:59:28.406] [INFO] service - 
+[2017-12-26T13:59:36.603] [INFO] service - 
+[2017-12-26T13:59:54.828] [INFO] service - 
+[2017-12-26T13:59:54.829] [ERROR] service - {"ip":"10.111.9.247","url":"/food/find.json","param":{"shop_id":null},"result":{"error_code":10005,"error_msg":"（\"shop_id\" must be a string)，see doc for more info","request":"/food/find.json"},"time":"1ms"}
+[2017-12-26T13:59:56.865] [INFO] service - 
+[2017-12-26T13:59:56.866] [ERROR] service - {"ip":"10.111.9.247","url":"/food/find.json","param":{"shop_id":null},"result":{"error_code":10005,"error_msg":"（\"shop_id\" must be a string)，see doc for more info","request":"/food/find.json"},"time":"1ms"}
+[2017-12-26T14:00:01.797] [INFO] service - 
+[2017-12-26T14:00:01.800] [INFO] service - {"ip":"10.111.9.247","url":"/user/login.json","param":{"phone":"admin","password":"admin"},"result":{"result":{"uid":"5a3b808789002004df3b7373","phone":"admin","user_group":0},"error_code":0},"time":"8ms"}
+[2017-12-26T14:00:01.888] [INFO] service - 
+[2017-12-26T14:00:03.625] [INFO] service - 
+[2017-12-26T14:00:25.345] [INFO] service - 
+[2017-12-26T14:00:25.348] [ERROR] service - {"ip":"10.111.9.247","url":"/user/staff/new.json","param":{"phone":"test","password":"test","vip_time":{"start_time":1512057600000,"end_time":1517328000000}},"result":{"error_code":20038,"error_msg":"手机号已注册","request":"/user/staff/new.json"},"time":"5ms"}
+[2017-12-26T14:00:25.358] [INFO] service - 
+[2017-12-26T14:00:30.971] [INFO] service - 
+[2017-12-26T14:00:48.898] [INFO] service - 
+[2017-12-26T14:00:48.982] [INFO] service - {"ip":"10.111.9.247","url":"/user/staff/new.json","param":{"phone":"gc","password":"gc","vip_time":{"start_time":1512057600000,"end_time":1517328000000}},"result":{"result":{"created_at":1514268048903,"updated_at":1514268048902,"phone":"gc","user_group":1,"_id":"5a41e59015919902f55888a1","vip_time":{"end_time":1517328000000,"start_time":1512057600000}},"error_code":0},"time":"85ms"}
+[2017-12-26T14:00:48.994] [INFO] service - 
+[2017-12-26T14:01:04.663] [INFO] service - 
+[2017-12-26T14:01:15.095] [INFO] service - 
+[2017-12-26T14:01:15.097] [INFO] service - {"ip":"10.111.9.247","url":"/user/login.json","param":{"phone":"gc","password":"gc"},"result":{"result":{"uid":"5a41e59015919902f55888a1","phone":"gc","user_group":1},"error_code":0},"time":"3ms"}
+[2017-12-26T14:01:15.172] [INFO] service - 
+[2017-12-26T14:01:16.944] [INFO] service - 
+[2017-12-26T14:01:41.950] [INFO] service - 
+[2017-12-26T14:01:41.953] [INFO] service - {"ip":"10.111.9.247","url":"/user/login.json","param":{"phone":"gc","password":"gc"},"result":{"result":{"uid":"5a41e59015919902f55888a1","phone":"gc","user_group":1},"error_code":0},"time":"4ms"}
+[2017-12-26T14:01:42.008] [INFO] service - 
+[2017-12-26T14:03:30.904] [INFO] service - 
+[2017-12-26T14:03:30.905] [ERROR] service - {"ip":"10.111.9.247","url":"/shop/new.json","param":{"uid":"5a41e59015919902f55888a1","vip_time":"","shop_name":"昶儿的饭店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/71604e05-ddd9-46ff-a345-d6885cbf1807.jpg","shop_info":"火锅店哦","shop_num":10},"result":{"error_code":10005,"error_msg":"（\"vip_time\" must be an object)，see doc for more info","request":"/shop/new.json"},"time":"3ms"}
+[2017-12-26T14:03:44.784] [INFO] service - 
+[2017-12-26T14:03:44.785] [ERROR] service - {"ip":"10.111.9.247","url":"/food/find.json","param":{"shop_id":null},"result":{"error_code":10005,"error_msg":"（\"shop_id\" must be a string)，see doc for more info","request":"/food/find.json"},"time":"2ms"}
+[2017-12-26T14:03:45.594] [INFO] service - 
+[2017-12-26T14:03:48.707] [INFO] service - 
+[2017-12-26T14:03:52.115] [INFO] service - app listening 14444
+[2017-12-26T14:03:52.144] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-26T14:04:14.770] [INFO] service - 
+[2017-12-26T14:04:32.143] [INFO] service - app listening 14444
+[2017-12-26T14:04:32.161] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-26T14:05:15.872] [INFO] service - 
+[2017-12-26T14:05:22.929] [INFO] service - 
+[2017-12-26T14:05:39.415] [INFO] service - 
+[2017-12-26T14:05:46.173] [INFO] service - 
+[2017-12-26T14:05:48.721] [INFO] service - 
+[2017-12-26T14:05:51.395] [INFO] service - 
+[2017-12-26T14:05:54.969] [INFO] service - 
+[2017-12-26T14:05:57.433] [INFO] service - 
+[2017-12-26T14:05:59.063] [INFO] service - 
+[2017-12-26T14:06:27.034] [INFO] service - 
+[2017-12-26T14:06:31.730] [INFO] service - 
+[2017-12-26T14:06:33.990] [INFO] service - 
+[2017-12-26T14:06:38.488] [INFO] service - 
+[2017-12-26T14:06:43.933] [INFO] service - 
+[2017-12-26T14:06:48.319] [INFO] service - 
+[2017-12-26T14:06:50.681] [INFO] service - 
+[2017-12-26T14:06:55.987] [INFO] service - 
+[2017-12-26T14:06:59.174] [INFO] service - 
+[2017-12-26T14:07:01.226] [INFO] service - 
+[2017-12-26T14:07:02.653] [INFO] service - 
+[2017-12-26T14:07:04.702] [INFO] service - 
+[2017-12-26T14:07:07.576] [INFO] service - 
+[2017-12-26T14:07:09.721] [INFO] service - 
+[2017-12-26T14:07:10.647] [INFO] service - 
+[2017-12-26T14:07:22.279] [INFO] service - 
+[2017-12-26T14:07:55.443] [INFO] service - 
+[2017-12-26T14:07:59.183] [INFO] service - 
+[2017-12-26T14:08:03.490] [INFO] service - 
+[2017-12-26T14:08:04.917] [INFO] service - 
+[2017-12-26T14:08:06.042] [INFO] service - 
+[2017-12-26T14:08:13.576] [INFO] service - 
+[2017-12-26T14:08:18.783] [INFO] service - 
+[2017-12-26T14:08:21.504] [INFO] service - 
+[2017-12-26T14:08:23.453] [INFO] service - 
+[2017-12-26T14:08:24.583] [INFO] service - 
+[2017-12-26T14:08:54.915] [INFO] service - 
+[2017-12-26T14:08:54.925] [INFO] service - 
+[2017-12-26T14:09:01.963] [INFO] service - 
+[2017-12-26T14:09:01.969] [INFO] service - 
+[2017-12-26T14:09:07.324] [INFO] service - 
+[2017-12-26T14:09:07.328] [INFO] service - 
+[2017-12-26T14:09:29.848] [INFO] service - 
+[2017-12-26T14:09:29.852] [INFO] service - 
+[2017-12-26T14:09:34.107] [INFO] service - 
+[2017-12-26T14:09:34.109] [INFO] service - 
+[2017-12-26T14:09:41.194] [INFO] service - 
+[2017-12-26T14:09:41.198] [INFO] service - 
+[2017-12-26T14:09:43.221] [INFO] service - 
+[2017-12-26T14:09:43.223] [INFO] service - 
+[2017-12-26T14:09:45.781] [INFO] service - 
+[2017-12-26T14:09:45.783] [INFO] service - 
+[2017-12-26T14:09:48.752] [INFO] service - 
+[2017-12-26T14:09:48.760] [INFO] service - 
+[2017-12-26T14:09:51.520] [INFO] service - 
+[2017-12-26T14:09:51.523] [INFO] service - 
+[2017-12-26T14:09:53.768] [INFO] service - 
+[2017-12-26T14:09:53.770] [INFO] service - 
+[2017-12-26T14:10:02.070] [INFO] service - 
+[2017-12-26T14:10:02.077] [INFO] service - 
+[2017-12-26T14:10:03.188] [INFO] service - 
+[2017-12-26T14:10:03.191] [INFO] service - 
+[2017-12-26T14:10:06.521] [INFO] service - 
+[2017-12-26T14:10:06.522] [INFO] service - 
+[2017-12-26T14:10:13.591] [INFO] service - 
+[2017-12-26T14:10:13.603] [INFO] service - 
+[2017-12-26T14:10:15.784] [INFO] service - 
+[2017-12-26T14:10:15.786] [INFO] service - 
+[2017-12-26T14:10:19.678] [INFO] service - 
+[2017-12-26T14:10:19.686] [INFO] service - 
+[2017-12-26T14:10:20.394] [INFO] service - 
+[2017-12-26T14:10:20.395] [INFO] service - 
+[2017-12-26T14:10:24.284] [INFO] service - 
+[2017-12-26T14:10:24.286] [INFO] service - 
+[2017-12-26T14:10:25.513] [INFO] service - 
+[2017-12-26T14:10:25.523] [INFO] service - 
+[2017-12-26T14:10:28.177] [INFO] service - 
+[2017-12-26T14:10:28.178] [INFO] service - 
+[2017-12-26T14:10:36.578] [INFO] service - 
+[2017-12-26T14:10:36.584] [INFO] service - 
+[2017-12-26T14:10:40.363] [INFO] service - 
+[2017-12-26T14:10:40.366] [INFO] service - 
+[2017-12-26T14:10:48.104] [INFO] service - 
+[2017-12-26T14:11:20.649] [INFO] service - 
+[2017-12-26T14:11:21.629] [INFO] service - 
+[2017-12-26T14:13:03.941] [INFO] service - 
+[2017-12-26T14:13:39.067] [INFO] service - 
+[2017-12-26T14:14:43.690] [INFO] service - 
+[2017-12-26T14:14:43.695] [ERROR] service - {"ip":"10.111.9.247","url":"/shop/new.json","param":{"uid":"5a41e59015919902f55888a1","vip_time":{"start_time":"2018年1月1日","end_time":"2018年2月1日"},"shop_name":"我的","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/917611e0-ec53-447f-92c1-4ff2d0dc12eb.jpg","shop_info":"我","shop_num":1,"zf_pay":"http://oph9t4bnq.bkt.clouddn.com/6d13baf0-1b41-4a1c-8154-790b807b403d.jpeg","wc_pay":"http://oph9t4bnq.bkt.clouddn.com/95994c84-3b4e-43d5-b6ad-31cf77069e63.jpeg"},"result":{"request":"/shop/new.json","error_code":10001,"error_msg":"Shop validation failed: wx_pay: wx_pay is required"},"time":"12ms"}
+[2017-12-26T14:14:59.198] [INFO] service - 
+[2017-12-26T14:15:10.516] [INFO] service - 
+[2017-12-26T14:15:15.592] [INFO] service - 
+[2017-12-26T14:15:17.465] [INFO] service - 
+[2017-12-26T14:15:19.715] [INFO] service - 
+[2017-12-26T14:15:22.385] [INFO] service - 
+[2017-12-26T14:15:25.757] [INFO] service - 
+[2017-12-26T14:15:27.065] [INFO] service - 
+[2017-12-26T14:15:31.805] [INFO] service - 
+[2017-12-26T14:15:33.948] [INFO] service - 
+[2017-12-26T14:15:35.792] [INFO] service - 
+[2017-12-26T14:15:36.611] [INFO] service - 
+[2017-12-26T14:15:44.710] [INFO] service - 
+[2017-12-26T14:15:46.340] [INFO] service - 
+[2017-12-26T14:16:09.904] [INFO] service - 
+[2017-12-26T14:16:09.906] [ERROR] service - {"ip":"10.111.9.247","url":"/shop/new.json","param":{"uid":"5a41e59015919902f55888a1","vip_time":{"start_time":null,"end_time":null},"shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/8fe1022f-6d9f-493e-923a-c823acf3e391.jpg","shop_info":"adf","shop_num":1,"zf_pay":"http://oph9t4bnq.bkt.clouddn.com/12e7d86c-0d69-4a4d-af26-634ef2e91754.jpeg","wc_pay":"http://oph9t4bnq.bkt.clouddn.com/0f789a80-8e68-44d4-9ada-66f06fbe5826.jpeg"},"result":{"request":"/shop/new.json","error_code":10001,"error_msg":"Shop validation failed: wx_pay: wx_pay is required"},"time":"3ms"}
+[2017-12-26T14:17:04.687] [INFO] service - 
+[2017-12-26T14:17:04.689] [ERROR] service - {"ip":"10.111.9.247","url":"/shop/new.json","param":{"uid":"5a41e59015919902f55888a1","vip_time":{"start_time":null,"end_time":null},"shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/8fe1022f-6d9f-493e-923a-c823acf3e391.jpg","shop_info":"adf","shop_num":1,"zf_pay":"http://oph9t4bnq.bkt.clouddn.com/12e7d86c-0d69-4a4d-af26-634ef2e91754.jpeg","wc_pay":"http://oph9t4bnq.bkt.clouddn.com/0f789a80-8e68-44d4-9ada-66f06fbe5826.jpeg"},"result":{"request":"/shop/new.json","error_code":10001,"error_msg":"Shop validation failed: wx_pay: wx_pay is required"},"time":"3ms"}
+[2017-12-26T14:17:31.512] [INFO] service - 
+[2017-12-26T14:17:31.523] [INFO] service - 
+[2017-12-26T14:17:41.349] [INFO] service - 
+[2017-12-26T14:17:59.882] [INFO] service - 
+[2017-12-26T14:17:59.883] [ERROR] service - {"ip":"10.111.9.247","url":"/shop/new.json","param":{"uid":"5a41e59015919902f55888a1","vip_time":{"start_time":null,"end_time":null},"shop_name":"郭昶","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/4c3d92c8-db39-4cd8-850c-700097607076.jpg","shop_info":"我","shop_num":1,"zf_pay":"http://oph9t4bnq.bkt.clouddn.com/172e0d2d-6d23-496a-8319-5412fbb47f71.jpeg","wx_pay":"http://oph9t4bnq.bkt.clouddn.com/da43d2d1-650b-49f0-b856-96f73e29c14b.jpeg"},"result":{"request":"/shop/new.json","error_code":10001,"error_msg":"Shop validation failed: wx_pay: wx_pay is required"},"time":"2ms"}
+[2017-12-26T14:18:27.591] [INFO] service - 
+[2017-12-26T14:18:29.057] [INFO] service - 
+[2017-12-26T14:18:31.719] [INFO] service - 
+[2017-12-26T14:18:35.006] [INFO] service - 
+[2017-12-26T14:19:16.517] [INFO] service - 
+[2017-12-26T14:19:45.249] [INFO] service - 
+[2017-12-26T14:19:45.257] [INFO] service - 
+[2017-12-26T14:19:46.784] [INFO] service - 
+[2017-12-26T14:19:53.855] [INFO] service - 
+[2017-12-26T14:19:59.508] [INFO] service - 
+[2017-12-26T14:19:59.517] [INFO] service - 
+[2017-12-26T14:20:01.833] [INFO] service - 
+[2017-12-26T14:20:38.094] [INFO] service - 
+[2017-12-26T14:20:38.095] [ERROR] service - {"ip":"10.111.9.247","url":"/shop/new.json","param":{"uid":"5a41e59015919902f55888a1","vip_time":{"start_time":null,"end_time":null},"shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/8dbfd239-0abc-45de-97d5-1ad1575c4baf.jpg","shop_info":"暗室","shop_num":1,"zf_pay":"http://oph9t4bnq.bkt.clouddn.com/01e2c5b6-5660-4d57-817a-3d38e25a6bab.jpeg","wx_pay":"http://oph9t4bnq.bkt.clouddn.com/3d8594f3-3ed4-4853-8490-1d640c806d34.jpeg"},"result":{"request":"/shop/new.json","error_code":10001,"error_msg":"Shop validation failed: wx_pay: wx_pay is required"},"time":"2ms"}
+[2017-12-26T14:22:17.725] [INFO] service - 
+[2017-12-26T14:22:17.727] [ERROR] service - {"ip":"10.111.9.247","url":"/shop/new.json","param":{"uid":"5a41e59015919902f55888a1","vip_time":{"start_time":1514269310000,"end_time":1514787710000},"shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/8dbfd239-0abc-45de-97d5-1ad1575c4baf.jpg","shop_info":"暗室","shop_num":1,"zf_pay":"http://oph9t4bnq.bkt.clouddn.com/01e2c5b6-5660-4d57-817a-3d38e25a6bab.jpeg","wx_pay":"http://oph9t4bnq.bkt.clouddn.com/3d8594f3-3ed4-4853-8490-1d640c806d34.jpeg"},"result":{"request":"/shop/new.json","error_code":10001,"error_msg":"Shop validation failed: wx_pay: wx_pay is required"},"time":"3ms"}
+[2017-12-26T14:22:40.979] [INFO] service - 
+[2017-12-26T14:23:29.882] [INFO] service - 
+[2017-12-26T14:23:42.926] [INFO] service - 
+[2017-12-26T14:23:45.684] [INFO] service - 
+[2017-12-26T14:24:24.705] [INFO] service - 
+[2017-12-26T14:24:24.714] [INFO] service - 
+[2017-12-26T14:24:26.440] [INFO] service - 
+[2017-12-26T14:24:39.661] [INFO] service - 
+[2017-12-26T14:24:41.185] [INFO] service - 
+[2017-12-26T14:24:44.167] [INFO] service - 
+[2017-12-26T14:26:24.589] [INFO] service - 
+[2017-12-26T14:26:24.618] [INFO] service - {"ip":"10.111.9.247","url":"/food/new.json","param":{"food_name":"麻辣小龙虾","food_type":"重辣","type":["热门推荐"],"food_img":[{"url":"http://oph9t4bnq.bkt.clouddn.com/6a947c17-b1e9-4f31-b596-2c434d0508e8.jpg","uid":1514269583487,"status":"success"}],"food_describe":"哈哈","food_price":"200","our_ratings":3,"shop_id":"5a41e63215919902f55888a4"},"result":{"result":{"_id":"5a41eb90f01938030325e9c0","shop_id":"5a41e63215919902f55888a4","food_name":"麻辣小龙虾","food_type":"重辣","our_ratings":3,"food_describe":"哈哈","food_price":200,"food_img":[{"url":"http://oph9t4bnq.bkt.clouddn.com/6a947c17-b1e9-4f31-b596-2c434d0508e8.jpg","uid":1514269583487,"status":"success"}],"type":["热门推荐"]},"error_code":0},"time":"32ms"}
+[2017-12-26T14:26:24.688] [INFO] service - 
+[2017-12-26T14:26:27.282] [INFO] service - 
+[2017-12-26T14:26:39.573] [INFO] service - 
+[2017-12-26T14:27:23.607] [INFO] service - 
+[2017-12-26T14:27:26.260] [INFO] service - 
+[2017-12-26T14:27:39.880] [INFO] service - 
+[2017-12-26T14:27:39.882] [ERROR] service - {"ip":"10.111.9.247","url":"/shop/new.json","param":{"uid":"5a41e59015919902f55888a1","vip_time":{"start_time":1514269310000,"end_time":1514787710000},"shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/8dbfd239-0abc-45de-97d5-1ad1575c4baf.jpg","shop_info":"暗室","shop_num":1,"zf_pay":"http://oph9t4bnq.bkt.clouddn.com/01e2c5b6-5660-4d57-817a-3d38e25a6bab.jpeg","wx_pay":"http://oph9t4bnq.bkt.clouddn.com/3d8594f3-3ed4-4853-8490-1d640c806d34.jpeg"},"result":{"request":"/shop/new.json","error_code":10001,"error_msg":"Shop validation failed: wx_pay: wx_pay is required"},"time":"2ms"}
+[2017-12-26T14:27:51.973] [INFO] service - 
+[2017-12-26T14:28:30.982] [INFO] service - 
+[2017-12-26T14:28:30.984] [ERROR] service - {"ip":"10.111.9.247","url":"/shop/new.json","param":{"uid":"5a41e59015919902f55888a1","vip_time":{"start_time":1514269310000,"end_time":1514787710000},"shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/8dbfd239-0abc-45de-97d5-1ad1575c4baf.jpg","shop_info":"暗室","shop_num":1,"zf_pay":"http://oph9t4bnq.bkt.clouddn.com/01e2c5b6-5660-4d57-817a-3d38e25a6bab.jpeg","wx_pay":"http://oph9t4bnq.bkt.clouddn.com/3d8594f3-3ed4-4853-8490-1d640c806d34.jpeg"},"result":{"request":"/shop/new.json","error_code":10001,"error_msg":"Shop validation failed: wx_pay: wx_pay is required"},"time":"3ms"}
+[2017-12-26T14:28:39.993] [INFO] service - 
+[2017-12-26T14:29:02.595] [INFO] service - 
+[2017-12-26T14:29:27.301] [INFO] service - 
+[2017-12-26T14:30:44.623] [INFO] service - 
+[2017-12-26T14:31:26.830] [INFO] service - app listening 14444
+[2017-12-26T14:31:26.847] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-26T14:31:28.069] [INFO] service - 
+[2017-12-26T14:31:29.262] [INFO] service - 
+[2017-12-26T14:31:30.793] [INFO] service - 
+[2017-12-26T14:32:15.455] [INFO] service - 
+[2017-12-26T14:32:15.461] [ERROR] service - {"ip":"10.111.9.247","url":"/shop/new.json","param":{"uid":"5a41e59015919902f55888a1","vip_time":{"start_time":1514269310000,"end_time":1514787710000},"shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/8dbfd239-0abc-45de-97d5-1ad1575c4baf.jpg","shop_info":"暗室","shop_num":1,"zf_pay":"http://oph9t4bnq.bkt.clouddn.com/01e2c5b6-5660-4d57-817a-3d38e25a6bab.jpeg","wx_pay":"http://oph9t4bnq.bkt.clouddn.com/3d8594f3-3ed4-4853-8490-1d640c806d34.jpeg"},"result":{"request":"/shop/new.json","error_code":10001,"error_msg":"Shop validation failed: wx_pay: wx_pay is required"},"time":"14ms"}
+[2017-12-26T14:32:48.630] [INFO] service - 
+[2017-12-26T14:32:52.407] [INFO] service - 
+[2017-12-26T14:33:25.806] [INFO] service - app listening 14444
+[2017-12-26T14:33:25.825] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-26T14:33:26.320] [INFO] service - 
+[2017-12-26T14:33:28.885] [INFO] service - 
+[2017-12-26T14:33:29.585] [INFO] service - 
+[2017-12-26T14:33:35.633] [INFO] service - 
+[2017-12-26T14:33:35.653] [INFO] service - {"ip":"10.111.9.247","url":"/shop/new.json","param":{"uid":"5a41e59015919902f55888a1","vip_time":{"start_time":1514269310000,"end_time":1514787710000},"shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/8dbfd239-0abc-45de-97d5-1ad1575c4baf.jpg","shop_info":"暗室","shop_num":1,"zf_pay":"http://oph9t4bnq.bkt.clouddn.com/01e2c5b6-5660-4d57-817a-3d38e25a6bab.jpeg","wx_pay":"http://oph9t4bnq.bkt.clouddn.com/3d8594f3-3ed4-4853-8490-1d640c806d34.jpeg"},"result":{"result":{"_id":"5a41e63215919902f55888a4","shop_name":"昶儿的饭店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/71604e05-ddd9-46ff-a345-d6885cbf1807.jpg","shop_info":"火锅店哦","uid":"5a41e59015919902f55888a1","shop_num":10,"vip_time":""},"error_code":0},"time":"27ms"}
+[2017-12-26T14:33:36.035] [INFO] service - 
+[2017-12-26T14:33:36.040] [INFO] service - {"ip":"10.111.9.247","url":"/shop/new.json","param":{"uid":"5a41e59015919902f55888a1","vip_time":{"start_time":1514269310000,"end_time":1514787710000},"shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/8dbfd239-0abc-45de-97d5-1ad1575c4baf.jpg","shop_info":"暗室","shop_num":1,"zf_pay":"http://oph9t4bnq.bkt.clouddn.com/01e2c5b6-5660-4d57-817a-3d38e25a6bab.jpeg","wx_pay":"http://oph9t4bnq.bkt.clouddn.com/3d8594f3-3ed4-4853-8490-1d640c806d34.jpeg"},"result":{"result":{"_id":"5a41e63215919902f55888a4","shop_name":"昶儿的饭店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/71604e05-ddd9-46ff-a345-d6885cbf1807.jpg","shop_info":"火锅店哦","uid":"5a41e59015919902f55888a1","shop_num":10,"vip_time":""},"error_code":0},"time":"6ms"}
+[2017-12-26T14:35:20.793] [INFO] service - 
+[2017-12-26T14:35:20.797] [INFO] service - {"ip":"10.111.9.247","url":"/shop/new.json","param":{"uid":"5a41e59015919902f55888a1","vip_time":{"start_time":1514269310000,"end_time":1514787710000},"shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/8dbfd239-0abc-45de-97d5-1ad1575c4baf.jpg","shop_info":"暗室","shop_num":1,"zf_pay":"http://oph9t4bnq.bkt.clouddn.com/01e2c5b6-5660-4d57-817a-3d38e25a6bab.jpeg","wx_pay":"http://oph9t4bnq.bkt.clouddn.com/3d8594f3-3ed4-4853-8490-1d640c806d34.jpeg"},"result":{"result":{"_id":"5a41e63215919902f55888a4","shop_name":"昶儿的饭店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/71604e05-ddd9-46ff-a345-d6885cbf1807.jpg","shop_info":"火锅店哦","uid":"5a41e59015919902f55888a1","shop_num":10,"vip_time":""},"error_code":0},"time":"6ms"}
+[2017-12-26T14:35:23.659] [INFO] service - 
+[2017-12-26T14:35:23.664] [INFO] service - {"ip":"10.111.9.247","url":"/shop/new.json","param":{"uid":"5a41e59015919902f55888a1","vip_time":{"start_time":1514269310000,"end_time":1514787710000},"shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/8dbfd239-0abc-45de-97d5-1ad1575c4baf.jpg","shop_info":"暗室","shop_num":1,"zf_pay":"http://oph9t4bnq.bkt.clouddn.com/01e2c5b6-5660-4d57-817a-3d38e25a6bab.jpeg","wx_pay":"http://oph9t4bnq.bkt.clouddn.com/3d8594f3-3ed4-4853-8490-1d640c806d34.jpeg"},"result":{"result":{"_id":"5a41e63215919902f55888a4","shop_name":"昶儿的饭店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/71604e05-ddd9-46ff-a345-d6885cbf1807.jpg","shop_info":"火锅店哦","uid":"5a41e59015919902f55888a1","shop_num":10,"vip_time":""},"error_code":0},"time":"5ms"}
+[2017-12-26T14:36:38.111] [INFO] service - 
+[2017-12-26T14:36:42.815] [INFO] service - 
+[2017-12-26T14:36:45.069] [INFO] service - 
+[2017-12-26T14:36:54.164] [INFO] service - 
+[2017-12-26T14:36:58.092] [INFO] service - 
+[2017-12-26T14:36:58.097] [ERROR] service - {"ip":"127.0.0.1","url":"/shop/new.json","param":{},"result":{"error_code":10005,"error_msg":"（\"uid\" is required)，see doc for more info","request":"/shop/new.json"},"time":"6ms"}
+[2017-12-26T14:37:12.556] [INFO] service - app listening 14444
+[2017-12-26T14:37:12.573] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-26T14:37:15.661] [INFO] service - 
+[2017-12-26T14:37:15.677] [ERROR] service - {"ip":"127.0.0.1","url":"/shop/new.json","param":{},"result":{"error_code":10005,"error_msg":"（\"uid\" is required)，see doc for more info","request":"/shop/new.json"},"time":"22ms"}
+[2017-12-26T14:37:23.428] [INFO] service - 
+[2017-12-26T14:37:23.431] [ERROR] service - {"ip":"127.0.0.1","url":"/shop/new.json","param":{},"result":{"error_code":10005,"error_msg":"（\"uid\" is required)，see doc for more info","request":"/shop/new.json"},"time":"4ms"}
+[2017-12-26T14:37:56.628] [INFO] service - 
+[2017-12-26T14:37:56.630] [ERROR] service - {"ip":"127.0.0.1","url":"/shop/new.json","param":{},"result":{"error_code":10005,"error_msg":"（\"uid\" is required)，see doc for more info","request":"/shop/new.json"},"time":"2ms"}
+[2017-12-26T14:38:12.204] [INFO] service - 
+[2017-12-26T14:38:12.206] [ERROR] service - {"ip":"127.0.0.1","url":"/shop/new.json","param":{},"result":{"error_code":10005,"error_msg":"（\"uid\" is required)，see doc for more info","request":"/shop/new.json"},"time":"3ms"}
+[2017-12-26T14:38:20.159] [INFO] service - 
+[2017-12-26T14:38:20.192] [INFO] service - {"ip":"127.0.0.1","url":"/shop/new.json","param":{"uid":"5a41e59015919902f55888a1","vip_time":{"start_time":1514269310000,"end_time":1514787710000},"shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/8dbfd239-0abc-45de-97d5-1ad1575c4baf.jpg","shop_info":"暗室","shop_num":1,"zf_pay":"http://oph9t4bnq.bkt.clouddn.com/01e2c5b6-5660-4d57-817a-3d38e25a6bab.jpeg","wx_pay":"http://oph9t4bnq.bkt.clouddn.com/3d8594f3-3ed4-4853-8490-1d640c806d34.jpeg"},"result":{"result":{"_id":"5a41e63215919902f55888a4","shop_name":"昶儿的饭店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/71604e05-ddd9-46ff-a345-d6885cbf1807.jpg","shop_info":"火锅店哦","uid":"5a41e59015919902f55888a1","shop_num":10,"vip_time":""},"error_code":0},"time":"35ms"}
+[2017-12-26T14:39:10.880] [INFO] service - app listening 14444
+[2017-12-26T14:39:10.899] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-26T14:39:25.247] [INFO] service - 
+[2017-12-26T14:39:25.291] [INFO] service - {"ip":"127.0.0.1","url":"/shop/new.json","param":{"uid":"5a41e59015919902f55888a1","vip_time":{"start_time":1514269310000,"end_time":1514787710000},"shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/8dbfd239-0abc-45de-97d5-1ad1575c4baf.jpg","shop_info":"暗室","shop_num":1,"zf_pay":"http://oph9t4bnq.bkt.clouddn.com/01e2c5b6-5660-4d57-817a-3d38e25a6bab.jpeg","wx_pay":"http://oph9t4bnq.bkt.clouddn.com/3d8594f3-3ed4-4853-8490-1d640c806d34.jpeg"},"result":{"result":{"_id":"5a41e63215919902f55888a4","shop_name":"昶儿的饭店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/71604e05-ddd9-46ff-a345-d6885cbf1807.jpg","shop_info":"火锅店哦","uid":"5a41e59015919902f55888a1","shop_num":10,"vip_time":""},"error_code":0},"time":"50ms"}
+[2017-12-26T14:41:05.520] [INFO] service - app listening 14444
+[2017-12-26T14:41:05.538] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-26T14:41:08.084] [INFO] service - 
+[2017-12-26T14:41:08.126] [INFO] service - {"ip":"127.0.0.1","url":"/shop/new.json","param":{"uid":"5a41e59015919902f55888a1","vip_time":{"start_time":1514269310000,"end_time":1514787710000},"shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/8dbfd239-0abc-45de-97d5-1ad1575c4baf.jpg","shop_info":"暗室","shop_num":1,"zf_pay":"http://oph9t4bnq.bkt.clouddn.com/01e2c5b6-5660-4d57-817a-3d38e25a6bab.jpeg","wx_pay":"http://oph9t4bnq.bkt.clouddn.com/3d8594f3-3ed4-4853-8490-1d640c806d34.jpeg"},"result":{"result":{"_id":"5a41e63215919902f55888a4","shop_name":"昶儿的饭店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/71604e05-ddd9-46ff-a345-d6885cbf1807.jpg","shop_info":"火锅店哦","uid":"5a41e59015919902f55888a1","shop_num":10,"vip_time":""},"error_code":0},"time":"51ms"}
+[2017-12-26T14:41:50.964] [INFO] service - app listening 14444
+[2017-12-26T14:41:50.985] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-26T14:42:00.414] [INFO] service - 
+[2017-12-26T14:42:00.462] [INFO] service - {"ip":"127.0.0.1","url":"/shop/new.json","param":{"uid":"5a41e59015919902f55888a1","vip_time":{"start_time":1514269310000,"end_time":1514787710000},"shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/8dbfd239-0abc-45de-97d5-1ad1575c4baf.jpg","shop_info":"暗室","shop_num":1,"zf_pay":"http://oph9t4bnq.bkt.clouddn.com/01e2c5b6-5660-4d57-817a-3d38e25a6bab.jpeg","wx_pay":"http://oph9t4bnq.bkt.clouddn.com/3d8594f3-3ed4-4853-8490-1d640c806d34.jpeg"},"result":{"result":{"_id":"5a41e63215919902f55888a4","shop_name":"昶儿的饭店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/71604e05-ddd9-46ff-a345-d6885cbf1807.jpg","shop_info":"火锅店哦","uid":"5a41e59015919902f55888a1","shop_num":10,"vip_time":""},"error_code":0},"time":"58ms"}
+[2017-12-26T14:43:27.713] [INFO] service - app listening 14444
+[2017-12-26T14:43:27.737] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-26T14:43:31.144] [INFO] service - 
+[2017-12-26T14:43:31.181] [INFO] service - {"ip":"127.0.0.1","url":"/shop/new.json","param":{"uid":"5a41e59015919902f55888a1","vip_time":{"start_time":1514269310000,"end_time":1514787710000},"shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/8dbfd239-0abc-45de-97d5-1ad1575c4baf.jpg","shop_info":"暗室","shop_num":1,"zf_pay":"http://oph9t4bnq.bkt.clouddn.com/01e2c5b6-5660-4d57-817a-3d38e25a6bab.jpeg","wx_pay":"http://oph9t4bnq.bkt.clouddn.com/3d8594f3-3ed4-4853-8490-1d640c806d34.jpeg"},"result":{"result":{"_id":"5a41e63215919902f55888a4","shop_name":"昶儿的饭店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/71604e05-ddd9-46ff-a345-d6885cbf1807.jpg","shop_info":"火锅店哦","uid":"5a41e59015919902f55888a1","shop_num":10,"vip_time":""},"error_code":0},"time":"48ms"}
+[2017-12-26T14:43:33.662] [INFO] service - 
+[2017-12-26T14:43:33.669] [INFO] service - {"ip":"127.0.0.1","url":"/shop/new.json","param":{"uid":"5a41e59015919902f55888a1","vip_time":{"start_time":1514269310000,"end_time":1514787710000},"shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/8dbfd239-0abc-45de-97d5-1ad1575c4baf.jpg","shop_info":"暗室","shop_num":1,"zf_pay":"http://oph9t4bnq.bkt.clouddn.com/01e2c5b6-5660-4d57-817a-3d38e25a6bab.jpeg","wx_pay":"http://oph9t4bnq.bkt.clouddn.com/3d8594f3-3ed4-4853-8490-1d640c806d34.jpeg"},"result":{"result":{"_id":"5a41e63215919902f55888a4","shop_name":"昶儿的饭店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/71604e05-ddd9-46ff-a345-d6885cbf1807.jpg","shop_info":"火锅店哦","uid":"5a41e59015919902f55888a1","shop_num":10,"vip_time":""},"error_code":0},"time":"8ms"}
+[2017-12-26T14:55:15.246] [INFO] service - 
+[2017-12-26T14:55:15.252] [INFO] service - {"ip":"127.0.0.1","url":"/shop/new.json","param":{"uid":"5a41e59015919902f55888a1","vip_time":{"start_time":1514269310000,"end_time":1514787710000},"shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/8dbfd239-0abc-45de-97d5-1ad1575c4baf.jpg","shop_info":"暗室","shop_num":1,"zf_pay":"http://oph9t4bnq.bkt.clouddn.com/01e2c5b6-5660-4d57-817a-3d38e25a6bab.jpeg","wx_pay":"http://oph9t4bnq.bkt.clouddn.com/3d8594f3-3ed4-4853-8490-1d640c806d34.jpeg"},"result":{"result":{"_id":"5a41ef95186b3203a7d01609","shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/8dbfd239-0abc-45de-97d5-1ad1575c4baf.jpg","shop_info":"暗室","uid":"5a41e59015919902f55888a1","shop_num":1,"wx_pay":"http://oph9t4bnq.bkt.clouddn.com/3d8594f3-3ed4-4853-8490-1d640c806d34.jpeg","zf_pay":"http://oph9t4bnq.bkt.clouddn.com/01e2c5b6-5660-4d57-817a-3d38e25a6bab.jpeg","vip_time":{"start_time":1514269310000,"end_time":1514787710000}},"error_code":0},"time":"7ms"}
+[2017-12-26T14:56:00.185] [INFO] service - app listening 14444
+[2017-12-26T14:56:00.201] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-26T15:00:48.962] [INFO] service - 
+[2017-12-26T15:00:48.997] [INFO] service - {"ip":"10.111.9.247","url":"/shop/new.json","param":{"uid":"5a41e59015919902f55888a1","vip_time":{"start_time":1514269310000,"end_time":1514787710000},"shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/8dbfd239-0abc-45de-97d5-1ad1575c4baf.jpg","shop_info":"暗室","shop_num":1,"zf_pay":"http://oph9t4bnq.bkt.clouddn.com/01e2c5b6-5660-4d57-817a-3d38e25a6bab.jpeg","wx_pay":"http://oph9t4bnq.bkt.clouddn.com/3d8594f3-3ed4-4853-8490-1d640c806d34.jpeg"},"result":{"result":{"_id":"5a41ef95186b3203a7d01609","shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/8dbfd239-0abc-45de-97d5-1ad1575c4baf.jpg","shop_info":"暗室","uid":"5a41e59015919902f55888a1","shop_num":1,"wx_pay":"http://oph9t4bnq.bkt.clouddn.com/3d8594f3-3ed4-4853-8490-1d640c806d34.jpeg","zf_pay":"http://oph9t4bnq.bkt.clouddn.com/01e2c5b6-5660-4d57-817a-3d38e25a6bab.jpeg","vip_time":{"start_time":1514269310000,"end_time":1514787710000}},"error_code":0},"time":"41ms"}
+[2017-12-26T15:01:41.678] [INFO] service - 
+[2017-12-26T15:01:44.234] [INFO] service - 
+[2017-12-26T15:01:48.015] [INFO] service - 
+[2017-12-26T15:01:56.047] [INFO] service - 
+[2017-12-26T15:01:56.059] [INFO] service - {"ip":"10.111.9.247","url":"/shop/new.json","param":{"shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/8dbfd239-0abc-45de-97d5-1ad1575c4baf.jpg","shop_info":"暗室","uid":"5a41e59015919902f55888a1","shop_num":1,"vip_time":{"end_time":1514787710000,"start_time":1514269310000},"shop_id":"5a41f3a0a828f403ae79baee","zf_img":[{}],"wx_img":[{}]},"result":{"result":{"_id":"5a41ef95186b3203a7d01609","shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/8dbfd239-0abc-45de-97d5-1ad1575c4baf.jpg","shop_info":"暗室","uid":"5a41e59015919902f55888a1","shop_num":1,"wx_pay":"http://oph9t4bnq.bkt.clouddn.com/3d8594f3-3ed4-4853-8490-1d640c806d34.jpeg","zf_pay":"http://oph9t4bnq.bkt.clouddn.com/01e2c5b6-5660-4d57-817a-3d38e25a6bab.jpeg","vip_time":{"start_time":1514269310000,"end_time":1514787710000}},"error_code":0},"time":"14ms"}
+[2017-12-26T15:02:03.215] [INFO] service - 
+[2017-12-26T15:02:24.483] [INFO] service - app listening 14444
+[2017-12-26T15:02:24.500] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-26T15:02:58.594] [INFO] service - 
+[2017-12-26T15:04:25.925] [INFO] service - app listening 14444
+[2017-12-26T15:04:25.942] [INFO] service - Mongodb connected!mongodb://127.0.0.1:27017/:baas1
+[2017-12-26T15:04:43.669] [INFO] service - 
+[2017-12-26T15:05:27.375] [INFO] service - 
+[2017-12-26T15:05:29.206] [INFO] service - 
+[2017-12-26T15:07:09.602] [INFO] service - 
+[2017-12-26T15:07:12.424] [INFO] service - 
+[2017-12-26T15:07:15.055] [INFO] service - 
+[2017-12-26T15:07:17.441] [INFO] service - 
+[2017-12-26T15:08:03.797] [INFO] service - 
+[2017-12-26T15:08:49.068] [INFO] service - 
+[2017-12-26T15:08:57.819] [INFO] service - 
+[2017-12-26T15:08:57.822] [INFO] service - {"ip":"10.111.9.247","url":"/user/login.json","param":{"phone":"gc","password":"gc"},"result":{"result":{"uid":"5a41e59015919902f55888a1","phone":"gc","user_group":1,"vip_time":{"end_time":1517328000000,"start_time":1512057600000}},"error_code":0},"time":"9ms"}
+[2017-12-26T15:08:58.083] [INFO] service - 
+[2017-12-26T15:10:08.979] [INFO] service - 
+[2017-12-26T15:10:08.994] [INFO] service - 
+[2017-12-26T15:10:09.004] [INFO] service - 
+[2017-12-26T15:10:09.014] [INFO] service - 
+[2017-12-26T15:10:09.024] [INFO] service - 
+[2017-12-26T15:10:09.032] [INFO] service - 
+[2017-12-26T15:10:09.040] [INFO] service - 
+[2017-12-26T15:10:09.049] [INFO] service - 
+[2017-12-26T15:10:09.184] [INFO] service - 
+[2017-12-26T15:10:16.582] [INFO] service - 
+[2017-12-26T15:10:18.408] [INFO] service - 
+[2017-12-26T15:10:26.305] [INFO] service - 
+[2017-12-26T15:10:29.916] [INFO] service - 
+[2017-12-26T15:10:34.270] [INFO] service - 
+[2017-12-26T15:10:39.224] [INFO] service - 
+[2017-12-26T15:10:55.218] [INFO] service - 
+[2017-12-26T15:10:56.108] [INFO] service - 
+[2017-12-26T15:10:59.881] [INFO] service - 
+[2017-12-26T15:11:03.380] [INFO] service - 
+[2017-12-26T15:11:45.454] [INFO] service - 
+[2017-12-26T15:11:48.055] [INFO] service - 
+[2017-12-26T15:11:50.543] [INFO] service - 
+[2017-12-26T15:11:53.288] [INFO] service - 
+[2017-12-26T15:11:55.027] [INFO] service - 
+[2017-12-26T15:11:57.748] [INFO] service - 
+[2017-12-26T15:12:04.258] [INFO] service - 
+[2017-12-26T15:12:04.259] [INFO] service - {"ip":"10.111.9.247","url":"/user/login.json","param":{"phone":"gc","password":"gc"},"result":{"result":{"uid":"5a41e59015919902f55888a1","phone":"gc","user_group":1,"vip_time":{"end_time":1517328000000,"start_time":1512057600000}},"error_code":0},"time":"2ms"}
+[2017-12-26T15:12:04.327] [INFO] service - 
+[2017-12-26T15:12:12.296] [INFO] service - 
+[2017-12-26T15:12:19.561] [INFO] service - 
+[2017-12-26T15:12:27.657] [INFO] service - 
+[2017-12-26T15:12:35.639] [INFO] service - 
+[2017-12-26T15:12:38.427] [INFO] service - 
+[2017-12-26T15:12:42.772] [INFO] service - 
+[2017-12-26T15:13:17.353] [INFO] service - 
+[2017-12-26T15:13:18.840] [INFO] service - 
+[2017-12-26T15:13:30.606] [INFO] service - 
+[2017-12-26T15:13:34.810] [INFO] service - 
+[2017-12-26T15:13:40.476] [INFO] service - 
+[2017-12-26T15:14:03.068] [INFO] service - 
+[2017-12-26T15:14:07.583] [INFO] service - 
+[2017-12-26T15:14:48.459] [INFO] service - 
+[2017-12-26T15:15:23.758] [INFO] service - 
+[2017-12-26T15:15:51.521] [INFO] service - 
+[2017-12-26T15:16:01.908] [INFO] service - 
+[2017-12-26T15:16:02.719] [INFO] service - 
+[2017-12-26T15:17:54.243] [INFO] service - 
+[2017-12-26T15:17:57.687] [INFO] service - 
+[2017-12-26T15:17:59.548] [INFO] service - 
+[2017-12-26T15:18:01.990] [INFO] service - 
+[2017-12-26T15:18:10.394] [INFO] service - 
+[2017-12-26T15:18:11.412] [INFO] service - 
+[2017-12-26T15:18:13.325] [INFO] service - 
+[2017-12-26T15:18:28.799] [INFO] service - 
+[2017-12-26T15:18:30.298] [INFO] service - 
+[2017-12-26T15:18:40.210] [INFO] service - 
+[2017-12-26T15:18:41.222] [INFO] service - 
+[2017-12-26T15:18:43.333] [INFO] service - 
+[2017-12-26T15:18:51.868] [INFO] service - 
+[2017-12-26T15:18:52.729] [INFO] service - 
+[2017-12-26T15:19:03.915] [INFO] service - 
+[2017-12-26T15:19:12.051] [INFO] service - 
+[2017-12-26T15:19:23.168] [INFO] service - 
+[2017-12-26T15:19:29.032] [INFO] service - 
+[2017-12-26T15:19:39.082] [INFO] service - 
+[2017-12-26T15:19:40.964] [INFO] service - 
+[2017-12-26T15:20:22.954] [INFO] service - 
+[2017-12-26T15:20:44.506] [INFO] service - 
+[2017-12-26T15:20:44.526] [INFO] service - {"ip":"10.111.9.247","url":"/shop/new.json","param":{"uid":"5a41e59015919902f55888a1","vip_time":{"start_time":1512057600000,"end_time":1517328000000},"shop_name":"gc","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/02592ad5-0c8f-47d4-beeb-fe8abe44e739.jpg","shop_info":"d","shop_num":1,"zf_pay":"http://oph9t4bnq.bkt.clouddn.com/9edf2754-55ab-4081-9fb3-ff1cfaf7364f.jpeg","wx_pay":"http://oph9t4bnq.bkt.clouddn.com/a7fbedaf-aa81-4893-bcc2-a5239e84414c.jpeg"},"result":{"result":{"_id":"5a41f84c6582d203b3964407","shop_name":"gc","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/02592ad5-0c8f-47d4-beeb-fe8abe44e739.jpg","shop_info":"d","uid":"5a41e59015919902f55888a1","shop_num":1,"wx_pay":"http://oph9t4bnq.bkt.clouddn.com/a7fbedaf-aa81-4893-bcc2-a5239e84414c.jpeg","zf_pay":"http://oph9t4bnq.bkt.clouddn.com/9edf2754-55ab-4081-9fb3-ff1cfaf7364f.jpeg","vip_time":{"start_time":1512057600000,"end_time":1517328000000}},"error_code":0},"time":"22ms"}
+[2017-12-26T15:20:50.583] [INFO] service - 
+[2017-12-26T15:21:04.266] [INFO] service - 
+[2017-12-26T15:21:33.882] [INFO] service - 
+[2017-12-26T15:21:36.549] [INFO] service - 
+[2017-12-26T15:21:38.803] [INFO] service - 
+[2017-12-26T15:22:01.914] [INFO] service - 
+[2017-12-26T15:22:37.131] [INFO] service - 
+[2017-12-26T15:22:58.650] [INFO] service - 
+[2017-12-26T15:23:05.102] [INFO] service - 
+[2017-12-26T15:23:09.133] [INFO] service - 
+[2017-12-26T15:24:14.653] [INFO] service - 
+[2017-12-26T15:24:17.657] [INFO] service - 
+[2017-12-26T15:24:20.621] [INFO] service - 
+[2017-12-26T15:24:45.701] [INFO] service - 
+[2017-12-26T15:24:46.931] [INFO] service - 
+[2017-12-26T15:24:55.404] [INFO] service - 
+[2017-12-26T15:25:07.293] [INFO] service - 
+[2017-12-26T15:25:08.790] [INFO] service - 
+[2017-12-26T15:25:13.608] [INFO] service - 
+[2017-12-26T15:25:24.298] [INFO] service - 
+[2017-12-26T15:25:25.307] [INFO] service - 
+[2017-12-26T15:25:29.328] [INFO] service - 
+[2017-12-26T15:25:42.290] [INFO] service - 
+[2017-12-26T15:25:49.389] [INFO] service - 
+[2017-12-26T15:25:55.202] [INFO] service - 
+[2017-12-26T15:25:59.948] [INFO] service - 
+[2017-12-26T15:26:02.377] [INFO] service - 
+[2017-12-26T15:26:04.022] [INFO] service - 
+[2017-12-26T15:26:05.170] [INFO] service - 
+[2017-12-26T15:26:07.057] [INFO] service - 
+[2017-12-26T15:26:09.423] [INFO] service - 
+[2017-12-26T15:26:24.690] [INFO] service - 
+[2017-12-26T15:26:25.886] [INFO] service - 
+[2017-12-26T15:26:27.940] [INFO] service - 
+[2017-12-26T15:26:29.279] [INFO] service - 
+[2017-12-26T15:26:47.901] [INFO] service - 
+[2017-12-26T15:26:55.873] [INFO] service - 
+[2017-12-26T15:27:04.311] [INFO] service - 
+[2017-12-26T15:27:14.858] [INFO] service - 
+[2017-12-26T15:27:16.005] [INFO] service - 
+[2017-12-26T15:27:18.970] [INFO] service - 
+[2017-12-26T15:27:23.560] [INFO] service - 
+[2017-12-26T15:27:25.087] [INFO] service - 
+[2017-12-26T15:27:40.465] [INFO] service - 
+[2017-12-26T15:27:41.695] [INFO] service - 
+[2017-12-26T15:27:46.250] [INFO] service - 
+[2017-12-26T15:27:47.900] [INFO] service - 
+[2017-12-26T15:27:48.843] [INFO] service - 
+[2017-12-26T15:27:53.559] [INFO] service - 
+[2017-12-26T15:27:56.376] [INFO] service - 
+[2017-12-26T15:28:01.840] [INFO] service - 
+[2017-12-26T15:28:07.965] [INFO] service - 
+[2017-12-26T15:28:08.915] [INFO] service - 
+[2017-12-26T15:28:16.562] [INFO] service - 
+[2017-12-26T15:28:18.850] [INFO] service - 
+[2017-12-26T15:28:32.479] [INFO] service - 
+[2017-12-26T15:28:32.494] [INFO] service - {"ip":"10.111.9.247","url":"/shop/new.json","param":{"shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/02592ad5-0c8f-47d4-beeb-fe8abe44e739.jpg","shop_info":"火锅店","uid":"5a41e59015919902f55888a1","shop_num":10,"wx_pay":"http://oph9t4bnq.bkt.clouddn.com/a7fbedaf-aa81-4893-bcc2-a5239e84414c.jpeg","zf_pay":"http://oph9t4bnq.bkt.clouddn.com/9edf2754-55ab-4081-9fb3-ff1cfaf7364f.jpeg","vip_time":{"start_time":1512057600000,"end_time":1517328000000},"shop_id":"5a41f84c6582d203b3964407"},"result":{"result":{"_id":"5a41f84c6582d203b3964407","shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/02592ad5-0c8f-47d4-beeb-fe8abe44e739.jpg","shop_info":"火锅店","uid":"5a41e59015919902f55888a1","shop_num":10,"wx_pay":"http://oph9t4bnq.bkt.clouddn.com/a7fbedaf-aa81-4893-bcc2-a5239e84414c.jpeg","zf_pay":"http://oph9t4bnq.bkt.clouddn.com/9edf2754-55ab-4081-9fb3-ff1cfaf7364f.jpeg","vip_time":{"start_time":1512057600000,"end_time":1517328000000}},"error_code":0},"time":"14ms"}
+[2017-12-26T15:28:35.777] [INFO] service - 
+[2017-12-26T15:29:03.611] [INFO] service - 
+[2017-12-26T15:29:06.975] [INFO] service - 
+[2017-12-26T15:29:08.927] [INFO] service - 
+[2017-12-26T15:29:17.637] [INFO] service - 
+[2017-12-26T15:29:26.761] [INFO] service - 
+[2017-12-26T15:29:28.377] [INFO] service - 
+[2017-12-26T15:29:29.810] [INFO] service - 
+[2017-12-26T15:29:32.174] [INFO] service - 
+[2017-12-26T15:29:35.033] [INFO] service - 
+[2017-12-26T15:29:36.056] [INFO] service - 
+[2017-12-26T15:29:37.646] [INFO] service - 
+[2017-12-26T15:29:50.812] [INFO] service - 
+[2017-12-26T15:29:52.479] [INFO] service - 
+[2017-12-26T15:29:54.741] [INFO] service - 
+[2017-12-26T15:29:54.745] [ERROR] service - {"ip":"10.111.9.247","url":"/shop/new.json","param":{"shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/02592ad5-0c8f-47d4-beeb-fe8abe44e739.jpg","shop_info":"火锅店","uid":"5a41e59015919902f55888a1","shop_num":10,"wx_pay":"http://oph9t4bnq.bkt.clouddn.com/a7fbedaf-aa81-4893-bcc2-a5239e84414c.jpeg","zf_pay":[],"vip_time":{"start_time":1512057600000,"end_time":1517328000000},"shop_id":"5a41f84c6582d203b3964407"},"result":{"error_code":10005,"error_msg":"（\"zf_pay\" must be a string)，see doc for more info","request":"/shop/new.json"},"time":"4ms"}
+[2017-12-26T15:30:05.537] [INFO] service - 
+[2017-12-26T15:30:06.575] [INFO] service - 
+[2017-12-26T15:30:08.826] [INFO] service - 
+[2017-12-26T15:30:11.198] [INFO] service - 
+[2017-12-26T15:30:24.412] [INFO] service - 
+[2017-12-26T15:30:26.649] [INFO] service - 
+[2017-12-26T15:30:29.269] [INFO] service - 
+[2017-12-26T15:30:32.905] [INFO] service - 
+[2017-12-26T15:30:36.031] [INFO] service - 
+[2017-12-26T15:30:40.579] [INFO] service - 
+[2017-12-26T15:30:58.476] [INFO] service - 
+[2017-12-26T15:31:22.156] [INFO] service - 
+[2017-12-26T15:31:27.324] [INFO] service - 
+[2017-12-26T15:31:31.187] [INFO] service - 
+[2017-12-26T15:31:33.693] [INFO] service - 
+[2017-12-26T15:31:42.714] [INFO] service - 
+[2017-12-26T15:31:49.501] [INFO] service - 
+[2017-12-26T15:31:49.505] [INFO] service - {"ip":"10.111.9.247","url":"/shop/new.json","param":{"shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/02592ad5-0c8f-47d4-beeb-fe8abe44e739.jpg","shop_info":"火锅店","uid":"5a41e59015919902f55888a1","shop_num":10,"wx_pay":"http://oph9t4bnq.bkt.clouddn.com/a7fbedaf-aa81-4893-bcc2-a5239e84414c.jpeg","zf_pay":"http://oph9t4bnq.bkt.clouddn.com/85e8e6e3-f4ca-4ab7-b8d9-2cfab9865f1d.jpeg","vip_time":{"start_time":1512057600000,"end_time":1517328000000},"shop_id":"5a41f84c6582d203b3964407"},"result":{"result":{"_id":"5a41f84c6582d203b3964407","shop_name":"郭昶的店","shop_imgs":"http://oph9t4bnq.bkt.clouddn.com/02592ad5-0c8f-47d4-beeb-fe8abe44e739.jpg","shop_info":"火锅店","uid":"5a41e59015919902f55888a1","shop_num":10,"wx_pay":"http://oph9t4bnq.bkt.clouddn.com/a7fbedaf-aa81-4893-bcc2-a5239e84414c.jpeg","zf_pay":"http://oph9t4bnq.bkt.clouddn.com/85e8e6e3-f4ca-4ab7-b8d9-2cfab9865f1d.jpeg","vip_time":{"start_time":1512057600000,"end_time":1517328000000}},"error_code":0},"time":"5ms"}
+[2017-12-26T15:31:52.213] [INFO] service - 
+[2017-12-26T15:32:00.454] [INFO] service - 
+[2017-12-26T15:32:35.300] [INFO] service - 
+[2017-12-26T15:32:35.307] [INFO] service - {"ip":"10.111.9.247","url":"/food/new.json","param":{"food_name":"麻辣小龙虾","food_type":"重辣","type":["热门推荐"],"food_img":[{"url":"http://oph9t4bnq.bkt.clouddn.com/8b24c00b-478c-4012-a561-d74ac689caa8.jpg","uid":1514273549536,"status":"success"},{"url":"http://oph9t4bnq.bkt.clouddn.com/9867fa68-aa1b-4acb-917f-882c9a69198a.jpg","uid":1514273552042,"status":"success"},{"url":"http://oph9t4bnq.bkt.clouddn.com/3d64d265-8a10-4d62-bd17-eb28a6ba5a0d.jpg","uid":1514273554274,"status":"success"}],"food_describe":"25只","food_price":"100","our_ratings":5,"shop_id":"5a41f84c6582d203b3964407"},"result":{"result":{"_id":"5a41fb136582d203b3964408","shop_id":"5a41f84c6582d203b3964407","food_name":"麻辣小龙虾","food_type":"重辣","our_ratings":5,"food_describe":"25只","food_price":100,"food_img":[{"url":"http://oph9t4bnq.bkt.clouddn.com/8b24c00b-478c-4012-a561-d74ac689caa8.jpg","uid":1514273549536,"status":"success"},{"url":"http://oph9t4bnq.bkt.clouddn.com/9867fa68-aa1b-4acb-917f-882c9a69198a.jpg","uid":1514273552042,"status":"success"},{"url":"http://oph9t4bnq.bkt.clouddn.com/3d64d265-8a10-4d62-bd17-eb28a6ba5a0d.jpg","uid":1514273554274,"status":"success"}],"type":["热门推荐"]},"error_code":0},"time":"9ms"}
+[2017-12-26T15:32:35.425] [INFO] service - 
+[2017-12-26T15:32:37.655] [INFO] service - 
+[2017-12-26T15:32:39.354] [INFO] service - 
+[2017-12-26T15:50:20.056] [INFO] service - 
+[2017-12-26T15:50:20.060] [INFO] service - {"ip":"10.111.9.247","url":"/food/new.json","param":{"food_name":"老王","food_type":"不辣","type":["汤"],"food_img":[{"url":"http://oph9t4bnq.bkt.clouddn.com/110829e2-0c58-49c1-a8c0-99a87d4d472e.jpg","uid":1514274617814,"status":"success"}],"food_describe":"哈哈","food_price":"100","our_ratings":3,"shop_id":"5a41f84c6582d203b3964407"},"result":{"result":{"_id":"5a41fb136582d203b3964408","shop_id":"5a41f84c6582d203b3964407","food_name":"麻辣小龙虾","food_type":"重辣","our_ratings":5,"food_describe":"25只","food_price":100,"food_img":[{"url":"http://oph9t4bnq.bkt.clouddn.com/8b24c00b-478c-4012-a561-d74ac689caa8.jpg","uid":1514273549536,"status":"success"},{"url":"http://oph9t4bnq.bkt.clouddn.com/9867fa68-aa1b-4acb-917f-882c9a69198a.jpg","uid":1514273552042,"status":"success"},{"url":"http://oph9t4bnq.bkt.clouddn.com/3d64d265-8a10-4d62-bd17-eb28a6ba5a0d.jpg","uid":1514273554274,"status":"success"}],"type":["热门推荐"]},"error_code":0},"time":"5ms"}
+[2017-12-26T15:50:20.100] [INFO] service - 
+[2017-12-26T15:50:51.647] [INFO] service - 
+[2017-12-26T15:50:51.649] [INFO] service - {"ip":"10.111.9.247","url":"/user/login.json","param":{"phone":"gc","password":"gc"},"result":{"result":{"uid":"5a41e59015919902f55888a1","phone":"gc","user_group":1,"vip_time":{"end_time":1517328000000,"start_time":1512057600000}},"error_code":0},"time":"3ms"}
+[2017-12-26T15:50:51.718] [INFO] service - 
+[2017-12-26T15:50:57.378] [INFO] service - 
+[2017-12-26T15:51:25.861] [ERROR] service - Failed to connect mongodb:DisconnectedError: Ran out of retries trying to reconnect to "127.0.0.1:27017". Try setting `server.reconnectTries` and `server.reconnectInterval` to something higher.
+[2017-12-26T15:51:25.864] [ERROR] service - {"ip":"10.111.9.247","url":"/food/find.json","param":{"shop_id":"5a41f84c6582d203b3964407"},"result":{"request":"/food/find.json","error_code":10001,"error_msg":"failed to reconnect after 30 attempts with interval 1000 ms"},"time":"28486ms"}
+[2017-12-26T15:51:37.116] [INFO] service - 
+[2017-12-26T15:51:37.120] [ERROR] service - {"ip":"10.111.9.247","url":"/food/new.json","param":{"food_name":"麻辣小龙虾","food_type":"辣","type":["热门推荐"],"food_img":[{"url":"http://oph9t4bnq.bkt.clouddn.com/24387487-3c1a-4d4c-bcb6-fa4314143b94.jpg","uid":1514274693958,"status":"success"}],"food_describe":"可辣了","food_price":"100","our_ratings":3,"shop_id":"5a41f84c6582d203b3964407"},"result":{"request":"/food/new.json","error_code":10001,"error_msg":"server instance pool was destroyed"},"time":"5ms"}

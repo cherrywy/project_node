@@ -1,0 +1,39 @@
+{
+  "sms":{
+    "luosimao":{
+      "api_key":"6f693bc392d5ac0755a2db850f1b9925",
+      "sign":"hello world"
+    }
+  },
+  "email":{
+    "from":"Lambda <18686535083@163.com>",
+    "smtp":{
+      "host":"smtp.163.com",
+      "port":25,
+      "auth":{
+        "user":"18686535083@163.com",
+        "pass":"xs1994"
+      }
+    },
+    "sign":"hello world"
+  },
+  "qiniu":{
+    "access_key":"2pHub3asMB-6My8BUZ9a9hvk0VyqR2pXT1styUqg",
+    "secret_key":"keRMYY41YrR7XSKkLzvaURLyln_Fg8UYZY68skaR",
+    "bucket":"weiwo",
+    "url_pre":"http://oph9t4bnq.bkt.clouddn.com/"
+  },
+  "pay":{
+    "alipay":{
+      "notify_url":"http://api.jialiaojy.com/alipay/callback.json",
+      "appid":2017120700431237,
+      "seller_id":2088721245602582,
+      "rsa_private":"-----BEGIN PRIVATE KEY-----\nMIICeAIBADANBgkqhkiG9w0BAQEFAASCAmIwggJeAgEAAoGBANODLE5wfSDhrfIB\nySewkhfVm7iPxuV4G6n4nro+UwVvmDuUMwMGEzjG39T7HB8ElR9+gDupbDc+E7Q/\ns0bPol24nn4oFQONshUM6K6vlh+j45LlK2Cf3/p4o3I2onLrcYAPcbwA7WNPz7eI\notAWSj74vgJcU834L+iOTVSZwPNrAgMBAAECgYEAwER/JBaRSDCd5F3HMzMIum3M\njir0TGewDgQYlYhOA6T7pz0CWf9NvdDaa0qQt4l83RIrExDhdB4T30gAeaAJIK2Z\nzZ28lqe7HuY2UZXPHwEWM1Qe0Hj+80HsdKFuhfmytzhnUKSYgF0M7kx74GRxi+aO\nqdPsMVIds8m/KQS3zlECQQDvLNj9W0kIb0y82uB7RWerh0d16DvXlPdONtAKppEP\nsrcTPQVeJPZJpsMXIq4PuLLY88wuAyUID9ant7r7qZPPAkEA4mQp/GsSRq+0YG31\nwUkTI16+BZF8vOHXmOFVdYeI0ebZGEOg8+Q5d+0s4o74unlygzctg+os7cHm6gSe\nXukhpQJBAJwEtlu3M5IEAJvlb7AaG0FiUrRQVNERhK2JxfZcp54E57XuBVVfaSWs\nWfD6l277/fbWOmf9dyemJVFs4dWOzjMCQE37sNbJTydYOOsKlZ/5+wSxCwXCAtTR\nesGnxRdSE5gyS8/m49d/YyhjY5W7KASb9w0qAZyyGr3fkBpGcwNAjR0CQQCXOIHm\nOxdBfMhKY5rY+RlmqocQYpmlnY82PIv7MfnVq90++JTxgPKUjnLjtGE85YsQyCH2\nTEpsvPLAK2YH7yfW\n-----END PRIVATE KEY-----"
+    }
+  },
+  "server":{
+    "db_name":"wisdom",
+    "db_port":"27017",
+    "port":"3000"
+  }
+}

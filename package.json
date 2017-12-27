@@ -1,0 +1,24 @@
+{
+    "name": "project_template",
+    "version": "1.0.0",
+    "description": "node 项目模板",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "author": "吴学宇",
+    "license": "ISC",
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "cors": "^2.8.4",
+        "express": "^4.16.2",
+        "express-fileupload": "^0.3.0",
+        "joi": "^13.0.2",
+        "lodash": "^4.17.4",
+        "log4js": "^2.4.1",
+        "mongoose": "^4.13.7",
+        "path": "^0.12.7",
+        "qiniu": "^6.1.13"
+    }
+}
